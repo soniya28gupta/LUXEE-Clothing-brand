@@ -1,0 +1,3207 @@
+{
+  "products": [
+    {
+      "id": "bf9707d2-993c-46ec-9421-469fb5a604b6",
+      "title": "Straight Fit Stretch Jeans",
+      "handle": "washed-straight-fit-jeans-4je0021-03",
+      "category": "Jeans",
+      "selling_price": 2099,
+      "mrp": 2799,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_70b3ca3a-d635-405f-bbde-fe1d0540e5a9.jpg?v=1790592713",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_70b3ca3a-d635-405f-bbde-fe1d0540e5a9.jpg?v=1790592713",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_ac0dde35-3b76-4158-b9f5-13790024b74a.jpg?v=1790592713",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_81fbb402-1409-4b4f-b118-df97d873ab48.jpg?v=1790592713",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_9e48c78e-6b87-41c7-83f6-fbbd9a00241b.jpg?v=1790592713",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_2985368e-f373-4a20-9855-1fc247862a20.jpg?v=1790592713"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Grey"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 15,
+        "30": 15,
+        "32": 2,
+        "34": 15,
+        "36": 15
+      },
+      "average_rating": 4.1,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Dark indigo denim that means businessâclean, sharp, and built for all-day comfort. Crafted in a straight fit with subtle fading and stretch for easy movement, this pair upgrades everyday looks effortlessly. Material: 70% Cotton 28% Polyester 2% Elastane for a soft yet durable feel.",
+      "occasion": "Casual Wear",
+      "fit": "Straight Fit",
+      "is_bestseller": true,
+      "is_new_drop": true,
+      "published_at": "2026-10-16T16:13:20+05:30",
+      "sku": "LX-JEA-001",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "luxee-prod-2",
+      "title": "Slim Fit Stretch Pleated Trousers",
+      "handle": "textured-beige-trousers-4tr0002-01",
+      "category": "Trousers",
+      "selling_price": 1599,
+      "mrp": 2199,
+      "discount_percentage": 27,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4tr0002-01-..jpg?v=1791825736",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4tr0002-01-..jpg?v=1791825736",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4tr0002-01_23fb2102-5792-41bd-bbfd-013094c7e0c7.jpg?v=1791825728",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4tr0002-01-32_back.jpg?v=1791825727",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4tr0002-01-32_front.jpg?v=1791825727",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4tr0002-01..jpg?v=1791825728",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4tr0002-01._14fe0f0f-94ed-444b-881b-dfa7fefc6c46.jpg?v=1791825728",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4tr0002-01.jpg?v=1791825728"
+      ],
+      "colors": [
+        "Beige",
+        "Grey",
+        "Navy"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 2,
+        "30": 8,
+        "32": 5,
+        "34": 8,
+        "36": 0
+      },
+      "average_rating": 4.4,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Tailored in a refined beige hue, these slim-fit pleated trousers feature a stretch polyester blend for premium comfort and mobility. Accented with sophisticated side adjusters, a double-button extended waistband, and sharp pressed creases, they deliver an elevated sartorial aesthetic ideal for business and formal occasions.",
+      "occasion": "Formal Wear,Festive Wear",
+      "fit": "Slim Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-13T12:05:41",
+      "sku": "LX-TRO-002",
+      "status": "active",
+      "fabric": "Polyester Rayon Spandex Blend",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "a586a6c6-e5a1-406a-8159-45bdeab9ab9f",
+      "title": "Black Baggy Jeans",
+      "handle": "denim-baggy-jeans-4je138-04",
+      "category": "Jeans",
+      "selling_price": 2099,
+      "mrp": 2799,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_78702145-19b8-4b90-9dbc-948c22fe23d5.jpg?v=1791463395",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_78702145-19b8-4b90-9dbc-948c22fe23d5.jpg?v=1791463395",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_75d14415-c8e5-475c-8a03-ade5118fd0e0.jpg?v=1791463396",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_50bf673f-8745-4bce-9d19-7c6602caf6c6.jpg?v=1791463395",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_ac476dce-911e-42f2-847b-858f9bbd816c.jpg?v=1791463395",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_96946bf6-4874-4379-8a71-a05328cc9c5f.jpg?v=1791463395",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_9af87d44-9662-4aa0-bdc1-877702f46752.jpg?v=1791463395",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_e5b8fbf1-56bf-4283-99d7-d3691bae412a.jpg?v=1791463395"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 8,
+        "30": 15,
+        "32": 8,
+        "34": 0,
+        "36": 0
+      },
+      "average_rating": 4.4,
+      "total_ratings_count": 7,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Bold Black baggy-fit jeans built for effortless everyday edge. Crafted in 100% Cotton with a sturdy denim weave, they deliver breathable comfort and a clean, structured drape. Finished with classic 5-pocket styling and a versatile full-length cutâeasy to dress up or down.",
+      "occasion": "Casual Wear",
+      "fit": "Baggy Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-14T11:06:26",
+      "sku": "LX-JEA-003",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "ecf80ca3-c404-4c81-a7b4-82ea4d7d8ebf",
+      "title": "Straight Fit Washed Jeans",
+      "handle": "washed-straight-fit-jeans-4je123-01",
+      "category": "Jeans",
+      "selling_price": 1799,
+      "mrp": 2399,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_0870e20c-34d9-4425-969c-72021c4869fa.jpg?v=1791825655",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_0870e20c-34d9-4425-969c-72021c4869fa.jpg?v=1791825655",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_44797fe4-e392-4ed1-b43e-b4f51649b179.jpg?v=1791825655",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_898a3105-a378-46ce-beb2-dcec04e4679c.jpg?v=1791825655",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_e9e3d231-c519-4538-b525-7fa3f80df452.jpg?v=1791825655",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_1ae8ee9e-e7cc-43a9-ba0f-26bc9fb58971.jpg?v=1791825655",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_10726620-c07a-4e8a-8e23-4de860769b05.jpg?v=1791825655",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_18236725-313d-4879-a40e-d497d2eb97e4.jpg?v=1791825655"
+      ],
+      "colors": [
+        "Grey"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 0,
+        "30": 8,
+        "32": 0,
+        "34": 12,
+        "36": 15
+      },
+      "average_rating": 4,
+      "total_ratings_count": 9,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Faded grey tones meet relaxed streetwear vibes in these straight-fit denim jeans. Crafted from 100% Cotton, this pair offers breathable, durable, and all-day comfort with classic 5-pocket utility. The subtle whiskering and washed look make them effortless to pair with tees, knit polos, or casual overshirts for everyday edge.",
+      "occasion": "Casual Wear",
+      "fit": "Straight Fit",
+      "is_bestseller": true,
+      "is_new_drop": false,
+      "published_at": "2026-10-13T12:04:03",
+      "sku": "LX-JEA-004",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "08069811-1d33-4c03-b151-3c77c92ffc69",
+      "title": "Washed Baggy Jeans",
+      "handle": "baggy-denim-jeans-4je0004-02",
+      "category": "Jeans",
+      "selling_price": 1999,
+      "mrp": 2699,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_fec8abb1-a3a9-48e8-b597-85e3a8adec03.jpg?v=1790592731",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_fec8abb1-a3a9-48e8-b597-85e3a8adec03.jpg?v=1790592731",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_ceb0dfe3-94b6-4e87-ada7-4bc3a70d0688.jpg?v=1790592731",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_d20306aa-e3ca-401a-9f25-5011f97dbabf.jpg?v=1790592731",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_557d9386-65ab-4f4b-9727-7409fe88f7b3.jpg?v=1790592731",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_72fb7268-cf27-44a3-8a7e-f98dd91720e8.jpg?v=1790592731",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_f1aaf5cc-dbf2-45f7-ba48-7b2aaf71f4e6.jpg?v=1790592731",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_023493b8-4560-458b-b1c6-8afe9b1cc028.jpg?v=1790592731"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 8,
+        "30": 0,
+        "32": 2,
+        "34": 5,
+        "36": 12
+      },
+      "average_rating": 4.3,
+      "total_ratings_count": 7,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Vintage indigo denim with a baggy, wide-leg silhouette brings effortless street-ready attitude. Crafted in 100% Cotton for breathable comfort and a sturdy, premium feel, it features classic 5-pocket styling and clean finishingâperfect for everyday rotation with tees, shirts, or hoodies.",
+      "occasion": "Casual Wear",
+      "fit": "Baggy Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-16T16:12:06+05:30",
+      "sku": "LX-JEA-005",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "a021558d-16c9-4c40-8cd0-9cff692f985d",
+      "title": "Straight Fit Stretch Jeans",
+      "handle": "washed-straight-fit-jeans-4je0021-02",
+      "category": "Jeans",
+      "selling_price": 2099,
+      "mrp": 2799,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_c9c29794-eedd-4bbe-a5d4-002b73fb5556.jpg?v=1790592711",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_c9c29794-eedd-4bbe-a5d4-002b73fb5556.jpg?v=1790592711",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_4d42946f-cd9d-47b8-8812-69dfabc00d9d.jpg?v=1790592710",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_80f8174d-0909-4b81-a6d4-05cced91db60.jpg?v=1790592711",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_721a0647-f537-47a8-ae2f-75702d62a1d7.jpg?v=1790592711",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_43b49749-97fa-4402-a06f-ddd6eae38ec3.jpg?v=1790592710",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_1356bb67-e182-4a91-a7d5-61684e9fed73.jpg?v=1790592711",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_0cbac8c3-6bcf-49f8-9c1a-bcc3666d9e61.jpg?v=1790592711"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Grey"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 12,
+        "30": 8,
+        "32": 15,
+        "34": 12,
+        "36": 12
+      },
+      "average_rating": 4.1,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Mid-indigo straight-fit jeans that nail everyday polish with a clean, lightly washed finish and easy stretch. Crafted in 78% Cotton 21% Polyester 1% Elastane for breathable comfort, shape retention, and flexible movementâbuilt to look sharp from workdays to weekends.",
+      "occasion": "Casual Wear",
+      "fit": "Straight Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-16T10:43:19",
+      "sku": "LX-JEA-006",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+      "title": "Double Pocket Regular Fit Shirt",
+      "handle": "double-pocket-regular-fit-shirt-4sfs0025-01",
+      "category": "Shirts",
+      "selling_price": 1299,
+      "mrp": 1799,
+      "discount_percentage": 28,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_a0159a63-a726-4e08-9586-88c73dbc867e.jpg?v=1792085847",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_a0159a63-a726-4e08-9586-88c73dbc867e.jpg?v=1792085847",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_2ec8049d-4345-459f-99d2-30b1b97bbabd.jpg?v=1792085847",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_94a400d8-97f6-4dd3-b611-7b77e24033c3.jpg?v=1792085847",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_99839dfc-1683-42f9-b24e-6eb7b45efd10.jpg?v=1792085847",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_2ed6411a-7b0f-4d82-a262-2f2c9ef95720.jpg?v=1792085847",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_96495c13-1e70-49fe-9a01-5fc6414b2017.jpg?v=1792085848",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_93aaa9e9-06e4-4132-ac74-c1a7e82a874d.jpg?v=1792085847"
+      ],
+      "colors": [
+        "Blue",
+        "Green",
+        "Mustard",
+        "Red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 0,
+        "M": 12,
+        "L": 15,
+        "XL": 12,
+        "XXL": 2
+      },
+      "average_rating": 4.3,
+      "total_ratings_count": 7,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Sun-drenched mustard yellow defines this sharp regular-fit shirt, featuring twin utility flap pockets and a relaxed Cuban collar. Crafted from pure 100% Cotton, it provides lightweight breathability and unmatched all-day comfort. Versatile and stylish, this shirt effortlessly transitions from casual daytime outings to upbeat evening gatherings.",
+      "occasion": "Holiday",
+      "fit": "Regular Fit",
+      "is_bestseller": true,
+      "is_new_drop": true,
+      "published_at": "2026-10-17T16:29:59+05:30",
+      "sku": "LX-SHI-007",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "dd851b5e-654d-4a22-b273-bb8d4609f7c4",
+      "title": "Black Straight Fit Jeans",
+      "handle": "straight-fit-denim-jeans-4je054-03",
+      "category": "Jeans",
+      "selling_price": 1999,
+      "mrp": 2699,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_cca74301-5d5c-4e58-9a96-d2a3fa24e724.jpg?v=1790858393",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_cca74301-5d5c-4e58-9a96-d2a3fa24e724.jpg?v=1790858393",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_314f11f1-d4e1-467c-9b18-87fa73624dda.jpg?v=1790858394",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_9c605a36-ab6d-44a4-a241-3e2de6dbbd9a.jpg?v=1790858393",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_7d178d06-abdf-451e-a7b7-465a81a7760a.jpg?v=1790858393",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_fe1405a7-748e-42e5-a607-54434f48d0b6.jpg?v=1790858394",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_ea91d76c-2fc0-4765-b004-945b29b483b3.jpg?v=1790858393",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_e812a5a6-2fda-413c-9013-93ebd4957894.jpg?v=1790858393"
+      ],
+      "colors": [
+        "Beige",
+        "Black"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 8,
+        "30": 12,
+        "32": 2,
+        "34": 8,
+        "36": 8
+      },
+      "average_rating": 4.4,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Jet-black straight-fit jeans that sharpen every look with a clean, minimal finish and easy stretch. Crafted in 98% Cotton 2% Spandex for breathable comfort, better shape retention, and day-long flexibility. A versatile staple that pairs effortlessly with tees, shirts, and sneakers.",
+      "occasion": "Casual Wear",
+      "fit": "Straight Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-05T12:52:11",
+      "sku": "LX-JEA-008",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "afb59156-0ae1-49e0-8b2c-53c28533680c",
+      "title": "Washed Baggy Jeans",
+      "handle": "baggy-washed-jeans-4je0004-03",
+      "category": "Jeans",
+      "selling_price": 1999,
+      "mrp": 2699,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_b77bb96b-629e-4655-b07d-29f830ea6e43.jpg?v=1789874099",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_b77bb96b-629e-4655-b07d-29f830ea6e43.jpg?v=1789874099",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_94381db0-3eb8-4b3a-bbb3-cb44edfa2785.jpg?v=1789874099",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_04f42719-fa3f-4589-9874-1d126af4609d.jpg?v=1789874099",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_c6ba938f-1a2b-420b-8d44-24ccd9f3e7bb.jpg?v=1789874098",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_0310a5a0-523b-45d8-aca1-b51138699bbc.jpg?v=1789874099",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_0a50c29d-8ce2-4934-b177-19f9ae80c776.jpg?v=1789874098",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_9401cfd9-02a5-4530-a27b-0ff948b431b0.jpg?v=1789874098"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 2,
+        "30": 5,
+        "32": 0,
+        "34": 5,
+        "36": 5
+      },
+      "average_rating": 4.4,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Washed dark-blue baggy-fit jeans built for everyday edge and all-day ease. Crafted in 100% Cotton for breathable comfort and a sturdy, premium hand-feel, they feature classic 5-pocket styling and a clean, wide-leg fall that pairs effortlessly with tees, hoodies, or crisp shirts.",
+      "occasion": "Street Wear",
+      "fit": "Baggy Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-16T10:42:05",
+      "sku": "LX-JEA-009",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "b536e9df-7d8c-45d8-ad2f-ac845fec1e66",
+      "title": "Washed Bootcut Jeans",
+      "handle": "denim-bootcut-jeans-4je149-05",
+      "category": "Jeans",
+      "selling_price": 2099,
+      "mrp": 2799,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_c51362e3-e4a5-49c3-b006-72c3dad46462.jpg?v=1790858396",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_c51362e3-e4a5-49c3-b006-72c3dad46462.jpg?v=1790858396",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_3c430749-8425-4827-996e-b3b155485783.jpg?v=1790858396",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_4a4e2cad-2a47-4302-8024-7e862e763f01.jpg?v=1790858396",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_31058c11-e5c2-4892-8e92-89aa7ae67b20.jpg?v=1790858396",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_f23b8250-1ead-4409-96b2-6749b19332a5.jpg?v=1790858397",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_0d0067b0-368c-455b-b16a-c8a6168f6eb9.jpg?v=1790858396",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_fbd19fa6-5d16-40b9-8b8e-ede3a9b24cb8.jpg?v=1790858396"
+      ],
+      "colors": [
+        "Black",
+        "Blue"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 5,
+        "30": 15,
+        "32": 8,
+        "34": 5,
+        "36": 5
+      },
+      "average_rating": 4.2,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Bootcut blue denim that brings a clean, confident throwback with modern comfort. Crafted in a premium stretch blend (83% Cotton 16% Polyester 1% Elastane), it stays breathable, holds shape, and moves easy all day. Finished with subtle fading and classic 5-pocket styling for effortless versatility.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": true,
+      "is_new_drop": false,
+      "published_at": "2026-10-19T11:31:20",
+      "sku": "LX-JEA-010",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "f076370b-4f2a-4daf-9ffb-f68e29d14c3b",
+      "title": "Slim Fit Stretch Shirt",
+      "handle": "stretch-slim-fit-shirt-4sfs023-12",
+      "category": "Shirts",
+      "selling_price": 999,
+      "mrp": 1299,
+      "discount_percentage": 23,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_8f2bfc53-1382-40a5-8ed3-bb8ad6595595.jpg?v=1792085871",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_8f2bfc53-1382-40a5-8ed3-bb8ad6595595.jpg?v=1792085871",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_b632d7f9-b625-4fff-bf30-616fdd4c49a2.jpg?v=1792085871",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_3b60baa8-cdae-4219-848a-0c03a959589f.jpg?v=1792085871",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_610be410-59da-4d33-9dd0-eee840060a37.jpg?v=1792085871",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_ad454cda-8bae-45ff-942c-d6027210afda.jpg?v=1792085871",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_2599fa4e-0e6f-472e-a530-573ceb28fa49.jpg?v=1792085872",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_5ffe3b8f-d171-490d-a02d-a6dda7d52095.jpg?v=1792085871"
+      ],
+      "colors": [
+        "Black",
+        "Maroon",
+        "Mauve",
+        "Navy",
+        "Olive",
+        "Pink",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 8,
+        "M": 15,
+        "L": 15,
+        "XL": 2,
+        "XXL": 15
+      },
+      "average_rating": 4.4,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size S",
+      "washcare": "Machine Wash",
+      "short_description": "Mauve tones define this modern slim-fit shirt, designed to bring effortless elegance to your everyday rotation. Crafted from a flexible 98% Polyester 2% Elastane blend, it offers smooth drape and all-day comfort. Featuring a crisp spread collar and sleek full sleeves, this piece seamlessly transitions from desk hours to evening outings.",
+      "occasion": "Smart Casuals",
+      "fit": "Slim Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-16T16:15:09+05:30",
+      "sku": "LX-SHI-011",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "ed7bc31d-5e8a-4bf5-8a56-0c3219c392ac",
+      "title": "Washed Straight Fit Jeans",
+      "handle": "washed-straight-fit-jeans-4je096-04",
+      "category": "Jeans",
+      "selling_price": 1999,
+      "mrp": 2699,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4je096-04_ee11f4eb-9aea-4bbb-9dba-cf0f17ba9d87.jpg?v=1791825653",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4je096-04_ee11f4eb-9aea-4bbb-9dba-cf0f17ba9d87.jpg?v=1791825653",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4je096-04..jpg?v=1791825653",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4je096-04._798b589d-d38e-47c1-b251-483572f11f48.jpg?v=1791825653",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4je096-04.jpg?v=1791825653",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4JE096-04_38be8681-e0b0-4a31-a964-a39611f61627.jpg?v=1792069521",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4je096-04-32_front.jpg?v=1791825653",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4je096-04-32_back.jpg?v=1791825653"
+      ],
+      "colors": [
+        "Blue",
+        "Grey"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 5,
+        "30": 8,
+        "32": 0,
+        "34": 0,
+        "36": 0
+      },
+      "average_rating": 4.1,
+      "total_ratings_count": 7,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Washed charcoal denim crafted from 100% Cotton brings an authentic vintage edge to your everyday rotation. Designed with a timeless straight fit, these jeans combine rugged durability with breathable all-day comfort. Versatile and sharp, they effortlessly transition from casual daytime hangs to laid-back evening plans.",
+      "occasion": "Casual Wear",
+      "fit": "Straight Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-19T11:30:49",
+      "sku": "LX-JEA-012",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "3a892bce-4abb-4bac-b68b-846712bd8ed7",
+      "title": "100% Cotton Regular Fit Brown Shirt",
+      "handle": "regular-fit-brown-shirt-4sfs0058-02",
+      "category": "Shirts",
+      "selling_price": 1399,
+      "mrp": 1899,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/result-0-1-copy.jpg?v=1790769997",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/result-0-1-copy.jpg?v=1790769997",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/result-0-2.jpg?v=1790769997",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/result-0-copy_8caf5732-00ea-42c8-ace6-8eea271aea9f.jpg?v=1790769997",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/result-0-1_fcd1cafa-d0fb-4c0f-87cf-9876f77fa611.jpg?v=1790769997",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/result-0_48a6cccf-3f51-4c3f-b454-8b36aaec542c.jpg?v=1790769997",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/front_2fd11edf-d9d5-43cd-803c-d7f02a3f0b72.jpg?v=1790769997",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/banvk.jpg?v=1790769997"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Green",
+        "Maroon",
+        "Off-White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 2,
+        "M": 5,
+        "L": 15,
+        "XL": 8,
+        "XXL": 2
+      },
+      "average_rating": 4.3,
+      "total_ratings_count": 9,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Crafted from 100% Cotton, this rich brown shirt offers a timeless look with its solid pattern and button-down collar. Designed for comfort and style, it features a regular fit and full sleeves, making it a versatile choice for both casual and smart occasions.",
+      "occasion": "Smart Casuals",
+      "fit": "Regular Fit",
+      "is_bestseller": true,
+      "is_new_drop": true,
+      "published_at": "2026-10-12T12:17:30",
+      "sku": "LX-SHI-013",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "luxee-prod-14",
+      "title": "Seoul Archive Box Fit Sweater",
+      "handle": "box-fit-textured-sweater-4sw067-01",
+      "category": "Sweaters",
+      "selling_price": 1799,
+      "mrp": 2399,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_85aa6b4a-9c68-49fd-96a9-a0b44014b650.jpg?v=1790592790",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_85aa6b4a-9c68-49fd-96a9-a0b44014b650.jpg?v=1790592790",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_5f6ee90b-bcae-4f75-9841-0a1772b1ce3a.jpg?v=1790592790",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_929ded22-a43d-4c88-9262-b199fc89e4c1.jpg?v=1790592790",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_3c41338c-606f-48f8-99fe-be2ac4a7d7aa.jpg?v=1790592790",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_f2de47af-9056-4e2f-b800-08d5bc261d8f.jpg?v=1790592790",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_b1837d1d-d47b-403b-89a2-25dd3984b63f.jpg?v=1790592790",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_b1819bde-40e1-45b9-8cf6-5123256303fe.jpg?v=1790592790"
+      ],
+      "colors": [
+        "Brown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 15,
+        "M": 0,
+        "L": 0,
+        "XL": 0,
+        "XXL": 12
+      },
+      "average_rating": 4.1,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Bold typography meets premium craftsmanship in this standout sweater from LUXEE. Made with 100% Acrylic, its box-fit design ensures comfort and style, while the light brown shade adds versatility to your wardrobe. Perfect for casual outings or relaxed evenings.",
+      "occasion": "Casual Wear",
+      "fit": "Oversized Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-13T12:06:46",
+      "sku": "LX-SWE-014",
+      "status": "active",
+      "fabric": "Premium Knit Acrylic-Wool Blend",
+      "complementary_product_ids": [
+        "8a51b283-58a9-4051-9351-1a4a8554bdc9",
+        "6837685b-ec87-4ab8-ab96-e4471c6ffb0f"
+      ]
+    },
+    {
+      "id": "a0e2e30a-970c-4f68-a3d5-d5c9737e26e5",
+      "title": "White Slim Fit Stretch Shirt",
+      "handle": "slim-fit-textured-shirt-mp-ss1116-02",
+      "category": "Shirts",
+      "selling_price": 1399,
+      "mrp": 1899,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/mp-ss1116-02-m-..jpg?v=1791825683",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/mp-ss1116-02-m-..jpg?v=1791825683",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/mp-ss1116-02-m_499d6dab-7961-45b2-b06a-0c5e73a914be.jpg?v=1791825683",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/mp-ss1116-02-m..jpg?v=1791825683",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/mp-ss1116-02-m.m.jpg?v=1791825683",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/mp-ss1116-02-m.jpg?v=1791825683",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/mp-ss1116-02-m_front.jpg?v=1791825682",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/mp-ss1116-02-m_back-check-back.jpg?v=1791825682"
+      ],
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 2,
+        "M": 12,
+        "L": 8,
+        "XL": 15,
+        "XXL": 15
+      },
+      "average_rating": 4.2,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Pristine white textured dobby fabric brings modern elegance to this sharp slim-fit shirt, featuring a crisp spread collar and full sleeves. Tailored from 66% Viscose, 32% Polyester, 2% Elastane, it delivers lightweight breathability with flexible stretch. Perfect for workday sophistication or evening parties, this must-have staple nails style. Original MRP -â¹2099",
+      "occasion": "Formal Wear",
+      "fit": "Slim Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-13T12:04:46",
+      "sku": "LX-SHI-015",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "0429c188-2b51-4c2c-87f8-c7edad30583a",
+      "title": "OnLoop Edge Satin Slim Fit Stretch Shirt",
+      "handle": "stretch-slim-fit-shirt-4sfs010-08",
+      "category": "Shirts",
+      "selling_price": 1699,
+      "mrp": 2299,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_1faa1452-80e4-4776-b373-a91a7dc3efb3.jpg?v=1791306756",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_1faa1452-80e4-4776-b373-a91a7dc3efb3.jpg?v=1791306756",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_68110c27-53dd-4a45-aaba-5239a5a9f6be.jpg?v=1791306756",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_dadd79f8-1665-48ed-8ec8-54f1066a137e.jpg?v=1791306756",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_01aec9ee-41a1-4b5f-8f86-00881a092d28.jpg?v=1791306756",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_fff40709-c570-4289-aac8-38144d8695af.jpg?v=1791306756",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_8a3c6804-c5e0-4289-ab0f-0f44866e40ad.jpg?v=1791306756",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_09fb4275-c164-4aec-bd9e-5857af08c80a.jpg?v=1791306756"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Maroon",
+        "Navy",
+        "Pink",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 8,
+        "M": 15,
+        "L": 5,
+        "XL": 15,
+        "XXL": 12
+      },
+      "average_rating": 4.2,
+      "total_ratings_count": 10,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Soft pastel pink shirt in a slim fit, crafted from a premium cotton blend with 98% cotton and 2% elastane for a comfortable stretch. Featuring a classic spread collar and full sleeves, this versatile piece is perfect for both formal and smart casual occasions, offering a refined yet approachable style.",
+      "occasion": "Smart Casuals",
+      "fit": "Slim Fit",
+      "is_bestseller": true,
+      "is_new_drop": false,
+      "published_at": "2026-10-16T10:45:02",
+      "sku": "LX-SHI-016",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "5924d75c-a1b5-4373-bd6c-a8afc76eac0d",
+      "title": "Regular Fit Washed Jeans",
+      "handle": "regular-fit-washed-jeans-4je0005-03",
+      "category": "Jeans",
+      "selling_price": 1999,
+      "mrp": 2699,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_ed79d52c-36e9-4d0b-91ed-b0a3d9a1cfdd.jpg?v=1790592724",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_ed79d52c-36e9-4d0b-91ed-b0a3d9a1cfdd.jpg?v=1790592724",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_8ea4283c-9867-4496-aada-8788f3a26e80.jpg?v=1790592724",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_f9f7ee5c-5a5f-4ff8-ba47-0a2f436d054c.jpg?v=1790592724",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_dc707fd3-7df5-42e0-bb29-f396dc181fbe.jpg?v=1790592724",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_8305a259-c665-4581-8745-66a965b6ca42.jpg?v=1790592724",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_9362325d-964a-47cb-9f82-c06646f6941a.jpg?v=1790592724",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_eb494bec-5543-49f7-8e43-8ffb21a5ea31.jpg?v=1790592726"
+      ],
+      "colors": [
+        "Blue"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 15,
+        "30": 8,
+        "32": 0,
+        "34": 2,
+        "36": 12
+      },
+      "average_rating": 4.3,
+      "total_ratings_count": 6,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Dark indigo wash that nails everyday coolâthese LUXEE jeans bring a clean, regular-fit silhouette with subtle fading for a lived-in edge. Crafted in 100% Cotton, the denim feels breathable yet durable, finished with classic 5-pocket styling and a secure button-and-zip closure.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-09-29T11:43:28",
+      "sku": "LX-JEA-017",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "840600cd-10b0-4e26-9d45-f1fbd5be39ac",
+      "title": "Straight Fit Washed Jeans",
+      "handle": "straight-fit-washed-jeans-4je104-03",
+      "category": "Jeans",
+      "selling_price": 1999,
+      "mrp": 2699,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_192305e3-6b46-48a4-b32d-d8ebe04338bc.jpg?v=1790592729",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_192305e3-6b46-48a4-b32d-d8ebe04338bc.jpg?v=1790592729",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_57eb6b4d-e69e-4365-9cba-5cb28558f589.jpg?v=1790592729",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_5c6245af-f22b-48d4-87f4-f30a6fe0c9c4.jpg?v=1790592729",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_b3907071-a64c-4dd1-8172-12097eba653a.jpg?v=1790592729",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_6761f89d-7794-416f-a877-113c57ee210a.jpg?v=1790592729",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_80345e16-96a7-4b08-95fe-94a437d7fd81.jpg?v=1790592729",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_0ace4065-8ec5-4bde-87bd-e6214c3008ee.jpg?v=1790592729"
+      ],
+      "colors": [
+        "Blue",
+        "Grey"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 0,
+        "30": 15,
+        "32": 2,
+        "34": 8,
+        "36": 2
+      },
+      "average_rating": 4.4,
+      "total_ratings_count": 12,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Charcoal-washed denim that means businessâclean, versatile, and built for everyday wear. Cut in a straight fit with classic 5-pocket styling and sturdy seams, these jeans pair effortlessly with tees or shirts. Crafted in 100% Cotton for breathable comfort and long-lasting durability.",
+      "occasion": "Casual Wear",
+      "fit": "Straight Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-05T12:52:55",
+      "sku": "LX-JEA-018",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "88601346-6d5e-4c50-85e4-caf12be3c17d",
+      "title": "Slim Fit Stretch Pleated Trousers",
+      "handle": "textured-charcoal-grey-trousers-4tr0002-03",
+      "category": "Trousers",
+      "selling_price": 1599,
+      "mrp": 2199,
+      "discount_percentage": 27,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_d4a0ed83-1b0c-40c1-a45b-4c5485965356.jpg?v=1791825739",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_d4a0ed83-1b0c-40c1-a45b-4c5485965356.jpg?v=1791825739",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_d6d59d93-7253-4786-b0e5-d36d9758fd79.jpg?v=1791825739",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_6c263bea-5bc7-4833-a4ca-ee7a53003d23.jpg?v=1791825739",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_e6990b4b-584d-40ab-a0ee-56f9546cd42b.jpg?v=1791825739",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_9a8579fa-13d4-4b4f-a0e1-b0b071085122.jpg?v=1791825739",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_1b3a2856-3d65-4401-93b9-03127d1cac26.jpg?v=1791825739",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_f5019f01-d70a-4f3e-a70b-b0ab4c3b0898.jpg?v=1791825739"
+      ],
+      "colors": [
+        "Beige",
+        "Grey",
+        "Navy"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 15,
+        "30": 8,
+        "32": 5,
+        "34": 15,
+        "36": 12
+      },
+      "average_rating": 4.1,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Tailored to perfection, these charcoal-grey pleated trousers seamlessly blend classic sophistication with contemporary ease. Crafted from a premium stretch-poly weave, they showcase elegant double pleats, sleek side adjusters, and a streamlined slim fit, ensuring supreme comfort and unmatched style from the boardroom to evening affairs.",
+      "occasion": "Formal Wear,Festive Wear",
+      "fit": "Slim Fit",
+      "is_bestseller": true,
+      "is_new_drop": true,
+      "published_at": "2026-10-13T12:05:43",
+      "sku": "LX-TRO-019",
+      "status": "active",
+      "fabric": "Polyester Rayon Spandex Blend",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "498c381e-67c4-42bc-a6f7-42aea1d6e1f5",
+      "title": "Straight Fit Stretch Jeans",
+      "handle": "denim-straight-fit-jeans-4je0021-05",
+      "category": "Jeans",
+      "selling_price": 2099,
+      "mrp": 2799,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_9232d5bc-9f0c-497e-abe0-b9e426d59f3b.png?v=1790858388",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_9232d5bc-9f0c-497e-abe0-b9e426d59f3b.png?v=1790858388",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_c06102e5-4e97-4f74-aed6-31c4dcb3db62.jpg?v=1790858388",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_c4684f1f-a7c7-4a71-8235-22459b4c0196.png?v=1790858387",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_b846057b-b6a4-4301-8197-4e1fe86c41bd.png?v=1790858388",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_100a1e58-8fc9-4da5-9ee2-5d69638ec7c5.png?v=1790858387",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_af55836b-c250-4fb7-9b0a-da36e18610ed.png?v=1790858387",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_632fb528-4576-40f8-ad4e-cab8feaed5fc.png?v=1790858387"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Grey"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 15,
+        "30": 0,
+        "32": 8,
+        "34": 15,
+        "36": 8
+      },
+      "average_rating": 4.3,
+      "total_ratings_count": 6,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Jet-black straight-fit jeans that keep it sharp without sacrificing comfort. Crafted in a premium stretch blend (98% Cotton 2% Elastane), they deliver a clean, versatile look with easy movement and all-day durabilityâperfect for tees, shirts, and smart-casual layers.",
+      "occasion": "College Wear",
+      "fit": "Straight Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-16T10:43:22",
+      "sku": "LX-JEA-020",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "740bc8f6-fcab-473f-8b3c-230c6403dcac",
+      "title": "Straight Fit Stretch Jeans",
+      "handle": "denim-straight-fit-jeans-4je0021-04",
+      "category": "Jeans",
+      "selling_price": 2099,
+      "mrp": 2799,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_e1545b48-10fa-410b-81b1-b7c90a378e04.jpg?v=1790858385",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_e1545b48-10fa-410b-81b1-b7c90a378e04.jpg?v=1790858385",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_fc2a3f5d-e0e4-4de4-8455-254941742200.jpg?v=1790858385",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_f93041c9-e876-4e22-b2d2-39e537349d6c.jpg?v=1790858384",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_781ebc35-1739-4b18-b1d3-d5550eb516ef.jpg?v=1790858384",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_103a39d9-774d-4c3c-933a-4d17fd59db84.jpg?v=1790858385",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_ce0bfd83-9266-4364-80c0-2201eae4698a.png?v=1790858384",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_aa76927d-f97f-427b-a063-ff19b5004ce8.png?v=1790858384"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Grey"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 0,
+        "30": 0,
+        "32": 0,
+        "34": 8,
+        "36": 15
+      },
+      "average_rating": 4.2,
+      "total_ratings_count": 9,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Bold Dark Blue denim built for everyday polishâthis straight-fit pair keeps it clean with a rich, even wash and a structured drape that still moves with you. Crafted in 81% Cotton 18% Polyester 1% Elastane for breathable comfort, durability, and easy stretch from AM to after-hours.",
+      "occasion": "College Wear",
+      "fit": "Straight Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-16T16:13:21+05:30",
+      "sku": "LX-JEA-021",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "3f7c9287-dc7c-484d-971a-c024b4cd1ce5",
+      "title": "Double Pocket Faux Fur Collar Luxe Suede Jacket",
+      "handle": "regular-fit-zipper-textured-jacket-4ljk0002-02",
+      "category": "Jackets",
+      "selling_price": 5499,
+      "mrp": 7399,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4ljk0002-02_1.jpg?v=1792409205",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4ljk0002-02_1.jpg?v=1792409205",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4ljk0002-02_2.jpg?v=1792409206",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4ljk0002-02_3_result.jpg?v=1792409205",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4ljk0002-02_4.jpg?v=1792409205",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4ljk0002-02_5.jpg?v=1792409205",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4ljk0002-02_6_result.jpg?v=1792409205",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4ljk0002-02_7_result.jpg?v=1792409205"
+      ],
+      "colors": [
+        "Brown",
+        "Olive"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 5,
+        "M": 5,
+        "L": 8,
+        "XL": 12,
+        "XXL": 0
+      },
+      "average_rating": 4.1,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Plush faux shearling collar crowns this sophisticated tan suede-finish jacket, tailored in a comfortable regular fit. Featuring a sleek full-front zipper, ribbed cuffs, and structured flap pockets, it effortlessly fuses aviator heritage with modern streetwear appeal. Ideal for layering over tees, this statement piece redefines effortless style.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": true,
+      "is_new_drop": false,
+      "published_at": "2026-10-22T18:19:35+05:30",
+      "sku": "LX-JAC-022",
+      "status": "active",
+      "fabric": "High-Density Utility Twill",
+      "complementary_product_ids": [
+        "bf9707d2-993c-46ec-9421-469fb5a604b6",
+        "a586a6c6-e5a1-406a-8159-45bdeab9ab9f"
+      ]
+    },
+    {
+      "id": "2b80ffb8-1fff-4eb2-975d-abbd24513dd9",
+      "title": "Cable Knit Regular Fit Sweater",
+      "handle": "cable-knit-regular-fit-sweater-4sw0046-02",
+      "category": "Sweaters",
+      "selling_price": 1699,
+      "mrp": 2299,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_ca3f035b-04c9-4a48-a94f-bfb227499308.jpg?v=1790592783",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_ca3f035b-04c9-4a48-a94f-bfb227499308.jpg?v=1790592783",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_46b2273a-901f-4864-bbf3-23c615467819.jpg?v=1790592791",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_68ae2ae3-3698-47b1-be96-0810890932e6.jpg?v=1790592783",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_ba7eb9aa-f8a8-4bff-a1fc-412f2d66d789.jpg?v=1790592791",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_a5091755-9ffe-4db9-8361-1cb350268e76.jpg?v=1790592791",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_a368f0c9-9e9d-4535-812e-09722b62b190.jpg?v=1790592783",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_d71a6a9a-0d79-40c0-821a-6a5c7146c3fb.jpg?v=1790592783"
+      ],
+      "colors": [
+        "Blue",
+        "Grey"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 5,
+        "M": 2,
+        "L": 0,
+        "XL": 5,
+        "XXL": 12
+      },
+      "average_rating": 4.3,
+      "total_ratings_count": 9,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Crafted from 100% Acrylic, this petrol blue sweater combines a bold cable-knit design with a soft, durable texture. Perfect for casual outings, it offers a regular fit that ensures comfort and style in equal measure. Elevate your wardrobe with this versatile, premium-quality piece.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-06T12:11:27",
+      "sku": "LX-SWE-023",
+      "status": "active",
+      "fabric": "Premium Knit Acrylic-Wool Blend",
+      "complementary_product_ids": [
+        "8a51b283-58a9-4051-9351-1a4a8554bdc9",
+        "6837685b-ec87-4ab8-ab96-e4471c6ffb0f"
+      ]
+    },
+    {
+      "id": "92ffa66e-5438-4a65-be75-b85a512b834d",
+      "title": "Regular Fit Stretch Grey Trousers",
+      "handle": "textured-light-grey-trousers-4tr055-02",
+      "category": "Trousers",
+      "selling_price": 1899,
+      "mrp": 2599,
+      "discount_percentage": 27,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_c483361b-4283-4658-a0ac-54460f1c2732.jpg?v=1790342082",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_c483361b-4283-4658-a0ac-54460f1c2732.jpg?v=1790342082",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_e2257528-5f11-4f80-ab56-acc9ddb48c58.jpg?v=1790342082",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_5f847c7b-c2a5-4d67-b496-b973341e3480.jpg?v=1790342084",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_77e726bd-b3be-47bb-9534-66745979f1fb.jpg?v=1790342082",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_5665208a-7072-41f3-9382-bb8c1da656f1.jpg?v=1790342082",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_21b3a766-dfee-4308-95d4-f8e579436395.jpg?v=1790342082",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_528072dc-7e02-4a69-ba73-ef3b62da91f2.jpg?v=1790342081"
+      ],
+      "colors": [
+        "Beige",
+        "Black",
+        "Grey",
+        "Navy",
+        "Olive"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 0,
+        "30": 12,
+        "32": 2,
+        "34": 8,
+        "36": 2
+      },
+      "average_rating": 4.6,
+      "total_ratings_count": 9,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Sharp Light Grey regular-fit trousers in a breathable cotton-blend with added elastane for easy stretch and day-long comfort. Clean flat-front styling, belt loops, and a neat zip fly with button closure create a polished look that works for office hours, smart casual plans, and travel-ready dressing.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-09-28T12:11:17",
+      "sku": "LX-TRO-024",
+      "status": "active",
+      "fabric": "Polyester Rayon Spandex Blend",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "luxee-prod-25",
+      "title": "Regular Fit Essential Polo Sweater",
+      "handle": "regular-fit-polo-sweater-4sw0018-01",
+      "category": "Sweaters",
+      "selling_price": 1899,
+      "mrp": 2599,
+      "discount_percentage": 27,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/result-0-1-copy-2.jpg?v=1790770031",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/result-0-1-copy-2.jpg?v=1790770031",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/result-0-1_197170d0-0962-416c-89de-0568df103175.jpg?v=1790770031",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/result-0_36f85815-138e-4426-8758-afd2f8b0ad19.jpg?v=1790770031",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/lookbook-look-21-sweater-jeans-back-mid-shot-a.jpg?v=1790770031",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/lookbook-look-21-sweater-jeans-front-mid-shot-a.jpg?v=1790770031",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/front_27f85de3-ea1d-41d9-89f9-8ff66e28d567.jpg?v=1790770031",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/back_48789c9b-dd51-4c07-b898-929c2c9e0bb3.jpg?v=1790770031"
+      ],
+      "colors": [
+        "Navy"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 5,
+        "M": 2,
+        "L": 0,
+        "XL": 15,
+        "XXL": 5
+      },
+      "average_rating": 4.4,
+      "total_ratings_count": 7,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Crafted with a premium blend of 49% Viscose, 28% Polyester, and 23% Nylon, this navy polo sweater offers a timeless design with a soft, breathable texture. Perfect for casual outings or layering, its regular fit ensures all-day comfort and effortless style.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": true,
+      "is_new_drop": true,
+      "published_at": "2026-10-13T12:07:01",
+      "sku": "LX-SWE-025",
+      "status": "active",
+      "fabric": "Premium Knit Acrylic-Wool Blend",
+      "complementary_product_ids": [
+        "8a51b283-58a9-4051-9351-1a4a8554bdc9",
+        "6837685b-ec87-4ab8-ab96-e4471c6ffb0f"
+      ]
+    },
+    {
+      "id": "2cd2d0b5-7e31-4cd1-87fa-e1683d3d3338",
+      "title": "Straight Fit Washed Jeans",
+      "handle": "straight-fit-washed-jeans-4je097-01",
+      "category": "Jeans",
+      "selling_price": 1999,
+      "mrp": 2699,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_8e0beba6-af92-4932-8e35-4d40cff90c96.jpg?v=1790858390",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_8e0beba6-af92-4932-8e35-4d40cff90c96.jpg?v=1790858390",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_27ba46f9-ae24-4739-9f17-1c3e1b478d97.jpg?v=1790858391",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_350721ff-5a77-4dcd-9ba5-18886b9e6f44.jpg?v=1790858391",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_999855e7-38ad-4dd0-9337-4045b5ff2923.jpg?v=1790858391",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_551846e5-a423-4658-838a-4359b4b9d93f.jpg?v=1790858391",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_62d54289-3e56-40fe-a91a-0b864a9f71c5.jpg?v=1790858390",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_17b68617-b549-47c5-9d65-85120bb431b3.jpg?v=1790858390"
+      ],
+      "colors": [
+        "Blue",
+        "Grey"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 8,
+        "30": 0,
+        "32": 2,
+        "34": 12,
+        "36": 5
+      },
+      "average_rating": 4.6,
+      "total_ratings_count": 12,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Washed light-blue denim that nails effortless coolâbuilt in a straight fit for clean lines and everyday versatility. Crafted in 100% Cotton for breathable comfort and a sturdy, premium hand-feel, it pairs seamlessly with tees, shirts, or layered jackets for sharp, all-day style.",
+      "occasion": "Casual Wear (Least Priority)",
+      "fit": "Straight Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-05T12:52:48",
+      "sku": "LX-JEA-026",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "8159f866-985a-425e-9bf2-052492090dab",
+      "title": "Elevated Essential Box Fit Sweater",
+      "handle": "box-fit-self-design-sweater-4sw0015-02",
+      "category": "Sweaters",
+      "selling_price": 1799,
+      "mrp": 2399,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_479ac75d-e2c5-41e2-9cf8-96b42eae74b3.jpg?v=1790592787",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_479ac75d-e2c5-41e2-9cf8-96b42eae74b3.jpg?v=1790592787",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_9fb085ef-f47c-4dd0-beb8-0744383f9984.jpg?v=1790592788",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_48892441-4025-4c8e-9540-6feb003626ce.jpg?v=1790592788",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_41a78d52-fc66-4181-a560-e654ac099a28.jpg?v=1790592788",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_a76c14af-6482-499a-8ab1-f8a01960e10f.jpg?v=1790592788",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_089b8a3e-ad88-42c1-b31e-878392c0fc9f.jpg?v=1790592788",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_ee52cbd8-7d45-4a1e-8c43-7e5a35fb4a47.jpg?v=1790592788"
+      ],
+      "colors": [
+        "Brown",
+        "Cream"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 15,
+        "M": 15,
+        "L": 2,
+        "XL": 5,
+        "XXL": 15
+      },
+      "average_rating": 4.1,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Effortlessly stylish, this box-fit sweater combines 80% Acrylic and 20% Polyester for a soft, durable feel. The rich brown hue with a subtle blue accent adds a modern touch, making it a versatile choice for casual outings or relaxed evenings.",
+      "occasion": "Casual Wear",
+      "fit": "Oversized Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-14T11:10:14",
+      "sku": "LX-SWE-027",
+      "status": "active",
+      "fabric": "Premium Knit Acrylic-Wool Blend",
+      "complementary_product_ids": [
+        "8a51b283-58a9-4051-9351-1a4a8554bdc9",
+        "6837685b-ec87-4ab8-ab96-e4471c6ffb0f"
+      ]
+    },
+    {
+      "id": "86177e04-be2a-43fd-81ef-4628bf1f6962",
+      "title": "Straight Fit Washed Jeans",
+      "handle": "straight-fit-washed-jeans-4je100-04",
+      "category": "Jeans",
+      "selling_price": 1999,
+      "mrp": 2699,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_36a6af84-ff3e-4929-a7ee-d23486f9fc68.jpg?v=1790592726",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_36a6af84-ff3e-4929-a7ee-d23486f9fc68.jpg?v=1790592726",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_dddbc5d5-822f-4828-a39f-97e83f2b5a42.jpg?v=1790592726",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_baf4cb4e-673c-45b5-ae95-c20d148db85a.jpg?v=1790592726",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_75d83ca3-9c16-4af1-8196-127bf38c0c06.jpg?v=1790592727",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_fb92857a-9e2a-4de4-a63f-268407f3f620.jpg?v=1790592727",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_c550abac-0d4d-4fd3-b137-f0d8ed88b5b0.jpg?v=1790592727",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_f4cc0e51-118b-4afa-b3d5-2c9c95465e58.jpg?v=1790592727"
+      ],
+      "colors": [
+        "Blue",
+        "Grey"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 15,
+        "30": 2,
+        "32": 5,
+        "34": 0,
+        "36": 0
+      },
+      "average_rating": 4.2,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Charcoal-washed straight-fit jeans bring a clean, modern edge with everyday comfort. Crafted in 100% Cotton, the sturdy denim holds its shape while staying breathable for all-day wear. Finished with classic 5-pocket styling and a versatile dark tone that pairs effortlessly with tees, knits, or shirts.",
+      "occasion": "College Wear",
+      "fit": "Straight Fit",
+      "is_bestseller": true,
+      "is_new_drop": false,
+      "published_at": "2026-10-19T11:30:55",
+      "sku": "LX-JEA-028",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "f66b2aa1-ecf1-4f38-8729-8f078802dc84",
+      "title": "Straight Fit Stretch Jeans",
+      "handle": "washed-straight-fit-jeans-4je0021-01",
+      "category": "Jeans",
+      "selling_price": 2099,
+      "mrp": 2799,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_77eaaaf0-9964-426a-9255-e40bfd6f0381.jpg?v=1790592708",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_77eaaaf0-9964-426a-9255-e40bfd6f0381.jpg?v=1790592708",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_98ecc085-190d-4903-a8b1-9aec688c7bed.jpg?v=1790592708",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_57ac8e88-78c6-409c-b5e9-82d626932aa2.jpg?v=1790592708",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_b5c4afe9-fd2c-4c8d-ad98-f99ecf988418.jpg?v=1790592708",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_970ff5d3-8321-4460-914b-f0aee81a42de.jpg?v=1790592708",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_bd6f8eb8-736f-4fd3-a837-57847f06f667.jpg?v=1790592708",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_c2ddb1ee-7a79-4422-b113-34bc277d1bcc.jpg?v=1790592708"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Grey"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 2,
+        "30": 5,
+        "32": 0,
+        "34": 12,
+        "36": 0
+      },
+      "average_rating": 4.1,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Ice-grey washed jeans that keep your look sharp without sacrificing comfort. Crafted in a straight fit with clean lines and subtle fading, theyâre built for everyday wear. Made with 84% Cotton 14% Polyester 2% Elastane for breathable softness, durability, and easy stretch.",
+      "occasion": "Casual Wear",
+      "fit": "Straight Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-16T10:43:18",
+      "sku": "LX-JEA-029",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "70a5e7ac-b9ff-413b-bf11-9d1a425ac84c",
+      "title": "100% Cotton Khaki Slim Fit Shirt",
+      "handle": "khaki-slim-fit-shirt-4sfs0063-04",
+      "category": "Shirts",
+      "selling_price": 1199,
+      "mrp": 1599,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_b53430b4-d45c-482c-975c-359b6798e8a3.jpg?v=1792085866",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_b53430b4-d45c-482c-975c-359b6798e8a3.jpg?v=1792085866",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_8ae5a0e8-eea2-4abe-aa22-c11d136415e5.jpg?v=1792085866",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_518dd8e5-2f1c-413a-a0b4-245731fdaf3f.jpg?v=1792085866",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_ff108803-91ad-4ff6-a7a3-e8db51b82648.jpg?v=1792085866",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_02bd3595-49cb-4b35-b936-b3be1f3fc555.jpg?v=1792085867",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_b3029020-4e06-4310-a727-d355c15d5233.jpg?v=1792085869",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_e2e238eb-4f24-48e1-9f5e-63266e51ec78.jpg?v=1792085866"
+      ],
+      "colors": [
+        "Black",
+        "Green",
+        "Khaki",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 2,
+        "M": 2,
+        "L": 2,
+        "XL": 12,
+        "XXL": 8
+      },
+      "average_rating": 4.3,
+      "total_ratings_count": 7,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Muted khaki tones bring understated elegance to this versatile slim-fit shirt from LUXEE. Crafted from 100% Cotton, it provides breathable ease and a polished silhouette with a classic spread collar and curved hem. Perfectly versatile, this mass-premium piece transitions effortlessly from workday sophistication to relaxed evening catch-ups.",
+      "occasion": "Festive Wear",
+      "fit": "Slim Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-19T11:31:46",
+      "sku": "LX-SHI-030",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "7cadca6d-9fb7-4788-b7e1-416e46636c3a",
+      "title": "100% Cotton Sage Green Slim Fit Shirt",
+      "handle": "sage-green-slim-fit-shirt-4sfs0063-02",
+      "category": "Shirts",
+      "selling_price": 1199,
+      "mrp": 1599,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_9cb65f28-7589-4d12-baa0-009cb846eeb0.jpg?v=1792085864",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_9cb65f28-7589-4d12-baa0-009cb846eeb0.jpg?v=1792085864",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_afb08176-2d14-41ca-9b5d-9cb064ee7685.jpg?v=1792085864",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_8a728330-1da4-4b4f-878c-81dd16ea7a33.jpg?v=1792085863",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_a1db2855-47aa-4ac0-b4dd-872d73957553.jpg?v=1792085863",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_859e8cd2-aaa6-4a55-a581-2635c38d4ce3.jpg?v=1792085863",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_6fbb54ec-5533-416c-939e-089178941b12.jpg?v=1792085864",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_83f9fec3-76a9-4deb-86ab-78bbd3bbf121.jpg?v=1792085864"
+      ],
+      "colors": [
+        "Black",
+        "Green",
+        "Khaki",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 5,
+        "M": 8,
+        "L": 5,
+        "XL": 8,
+        "XXL": 0
+      },
+      "average_rating": 4.1,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Sage-green elegance defines this refined slim-fit shirt, expertly tailored for the modern man. Crafted from breathable 100% Cotton, it offers supreme all-day comfort with a clean spread collar and classic full sleeves. Perfectly versatile, this mass-premium piece transitions smoothly from casual day outings to stylish evening meetups.",
+      "occasion": "Festive Wear",
+      "fit": "Slim Fit",
+      "is_bestseller": true,
+      "is_new_drop": true,
+      "published_at": "2026-10-19T11:31:45",
+      "sku": "LX-SHI-031",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "bbc951c5-af6b-4164-b8f0-60a7e86dbe6f",
+      "title": "Chenille Suede Snap Button Jacket",
+      "handle": "textured-regular-fit-notch-collar-jacket-4jk0026-01",
+      "category": "Jackets",
+      "selling_price": 2624,
+      "mrp": 3499,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_f86bec5f-8d3c-43d4-aad3-fe5f575c1800.jpg?v=1791463379",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_f86bec5f-8d3c-43d4-aad3-fe5f575c1800.jpg?v=1791463379",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_b41138f1-f2e5-4d4d-be94-b6d552b769a6.jpg?v=1791463379",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_b58ab4f7-8291-4b89-bb95-ce35dbf3d322.jpg?v=1791463379",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_d10457a5-16d0-4d38-8b21-4f459e8af2b5.jpg?v=1791463379",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_8c63967d-92c9-422a-b0d7-c5abcd85379b.jpg?v=1791463379",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_ab7cec5b-9b65-4a7f-890f-74ceebc4dfef.jpg?v=1791463379",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_2960f7fb-7e3f-412e-84ee-288597b9c794.jpg?v=1791463379"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 12,
+        "M": 0,
+        "L": 15,
+        "XL": 5,
+        "XXL": 8
+      },
+      "average_rating": 4.5,
+      "total_ratings_count": 10,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Elevate your wardrobe with this textured black jacket featuring a notch collar and snap closures. Crafted from 100% polyester, it offers a regular fit and a sophisticated design. Perfect for casual outings or layering, this versatile piece combines style and comfort effortlessly.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-09T12:01:22",
+      "sku": "LX-JAC-032",
+      "status": "active",
+      "fabric": "High-Density Utility Twill",
+      "complementary_product_ids": [
+        "bf9707d2-993c-46ec-9421-469fb5a604b6",
+        "a586a6c6-e5a1-406a-8159-45bdeab9ab9f"
+      ]
+    },
+    {
+      "id": "1eeed5f8-bd52-4f1a-a377-365cc95cb9af",
+      "title": "Regular Fit Packable Puffer Jacket",
+      "handle": "regular-fit-zipper-zip-collar-textured-jacket-4jk0010-02",
+      "category": "Jackets",
+      "selling_price": 2624,
+      "mrp": 3499,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/lookbook-look-26-jacket-over-t-shirt-jeans-three-quarter-both-hands-in-jacket-pockets-b.jpg?v=1792404605",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/lookbook-look-26-jacket-over-t-shirt-jeans-three-quarter-both-hands-in-jacket-pockets-b.jpg?v=1792404605",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/Untitled-1_2_ce3a7308-0e75-4550-baf3-c9360623ab87.jpg?v=1792404605",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/de.jpg?v=1792404605",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/lookbook-look-25-jacket-trousers-editorial-still-front-three-quarter-a.jpg?v=1792404605",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_5d72ec84-bd5e-4afb-9f39-36721f5dfe1f.jpg?v=1791871816",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/MinimalCreamQuiltedPouch.png?v=1792068450",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_a2b78cef-a956-4b32-8b95-1b6f72ac6b02.jpg?v=1791871815",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_0a0251b5-2e1e-494a-a518-32e802aa1248.jpg?v=1791871815"
+      ],
+      "colors": [
+        "Blue",
+        "Green",
+        "Off-White",
+        "Purple"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 15,
+        "M": 12,
+        "L": 8,
+        "XL": 5,
+        "XXL": 2
+      },
+      "average_rating": 4.4,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Elevate your winter wardrobe with this sleek puffer jacket, crafted from 100% nylon shell and lined with 100% polyester for ultimate comfort. Featuring a regular fit and synthetic fill insulation, it offers lightweight warmth and a modern aesthetic. Perfect for casual outings or layering on chilly days.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-16T12:14:06",
+      "sku": "LX-JAC-033",
+      "status": "active",
+      "fabric": "High-Density Utility Twill",
+      "complementary_product_ids": [
+        "bf9707d2-993c-46ec-9421-469fb5a604b6",
+        "a586a6c6-e5a1-406a-8159-45bdeab9ab9f"
+      ]
+    },
+    {
+      "id": "af65ebbe-68b2-42e8-a82e-8f06f06e5615",
+      "title": "Slim Fit Stretch Satin Shirt",
+      "handle": "slim-fit-purple-shirt-4sfs208-06",
+      "category": "Shirts",
+      "selling_price": 999,
+      "mrp": 1299,
+      "discount_percentage": 23,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_2fef4646-18f5-451a-9728-36d7e17da1a6.jpg?v=1790246771",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_2fef4646-18f5-451a-9728-36d7e17da1a6.jpg?v=1790246771",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_c1129991-cd54-4910-a7f5-e5596deed300.jpg?v=1790246772",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_d57dd599-bd38-4cc1-ad1f-4ae146811ee9.jpg?v=1790246772",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_c470d5ed-a5d8-4d19-a1f4-c0b465b3d076.jpg?v=1790246779",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_c7045bbc-d150-43d8-8bfb-84cedc2857a4.jpg?v=1790246772",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_9e4900c5-223e-4b6d-9c46-8c58de8b4bee.jpg?v=1790246772",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_a49bb6c8-b900-4e7d-8335-aca36efed8ce.jpg?v=1790246773"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Brown",
+        "Maroon",
+        "Mauve",
+        "Navy",
+        "Purple",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 0,
+        "M": 2,
+        "L": 15,
+        "XL": 2,
+        "XXL": 0
+      },
+      "average_rating": 4.2,
+      "total_ratings_count": 9,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "This slim-fit shirt in a rich, deep hue is crafted from a premium blend of 98% Polyester and 2% Elastane, offering a sleek and polished look. Its smooth texture and tailored design make it a versatile choice for both formal and semi-formal occasions, ensuring all-day comfort and style.",
+      "occasion": "Formal Wear",
+      "fit": "Slim Fit",
+      "is_bestseller": true,
+      "is_new_drop": false,
+      "published_at": "2026-10-09T11:59:02",
+      "sku": "LX-SHI-034",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "140693cf-b196-4d46-ac40-dae65f8bfe53",
+      "title": "Textured Stripes Ribbed Pullover Sweater",
+      "handle": "relaxed-fit-ribbed-sweater-4sw065-02",
+      "category": "Sweaters",
+      "selling_price": 1899,
+      "mrp": 2599,
+      "discount_percentage": 27,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_12ace2de-b022-409b-a64b-dd3a3ba986e5.jpg?v=1790592777",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_12ace2de-b022-409b-a64b-dd3a3ba986e5.jpg?v=1790592777",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_e9bfbc1c-3f4e-4b4e-ae88-3fc2259fe2b6.jpg?v=1790592776",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_5df3b7c1-96f7-45ee-9f73-7a67c27b8b44.jpg?v=1790592776",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_dd1d73d7-f105-4ae1-b5fc-e53840c33bbb.jpg?v=1790592777",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_60928a39-1079-49f6-aad0-831ef137bc60.jpg?v=1790592776",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_45110cb7-1602-4af1-ba2b-529f6227afae.jpg?v=1790592777",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_8170f854-c5e2-4a11-afc9-1cd578141a6a.jpg?v=1790592777"
+      ],
+      "colors": [
+        "Beige",
+        "Grey"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 2,
+        "M": 8,
+        "L": 12,
+        "XL": 2,
+        "XXL": 2
+      },
+      "average_rating": 4.3,
+      "total_ratings_count": 6,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Crafted with 100% Acrylic, this sweater from LUXEE combines contemporary design with premium comfort. The ribbed texture and relaxed fit make it a versatile choice for casual outings, ensuring you stay stylish and cozy throughout the day.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-13T12:07:14",
+      "sku": "LX-SWE-035",
+      "status": "active",
+      "fabric": "Premium Knit Acrylic-Wool Blend",
+      "complementary_product_ids": [
+        "8a51b283-58a9-4051-9351-1a4a8554bdc9",
+        "6837685b-ec87-4ab8-ab96-e4471c6ffb0f"
+      ]
+    },
+    {
+      "id": "65aaf47d-ca5a-4a95-8aa9-3b48ad859024",
+      "title": "OnLoop Edge Satin Slim Fit Stretch Shirt",
+      "handle": "stretch-slim-fit-shirt-4sfs010-09",
+      "category": "Shirts",
+      "selling_price": 1699,
+      "mrp": 2299,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_011c8b04-b341-4ac9-84a4-cec051b6e509.png?v=1791360335",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_011c8b04-b341-4ac9-84a4-cec051b6e509.png?v=1791360335",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_d68f1c11-7558-45d2-ae9e-8d06dc73d5f0.png?v=1791360335",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_ca3385b1-2db4-4da3-bb7b-2fe30072b925.png?v=1791360335",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_34f5fcd9-7d27-4e3b-8f7c-acd92e5447ef.png?v=1791360335",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_8f4e7ebf-27b7-47fb-ba16-83cfc2ad7be4.png?v=1791360335",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_1cc421c4-69a7-4ddb-8730-e987e0c49940.png?v=1791360334",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_6518dc76-e886-4852-9c94-384ab706dece.png?v=1791360334"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Maroon",
+        "Navy",
+        "Pink",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 0,
+        "M": 15,
+        "L": 8,
+        "XL": 5,
+        "XXL": 5
+      },
+      "average_rating": 4.3,
+      "total_ratings_count": 9,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Crafted with 98% Cotton and 2% Elastane, this slim-fit shirt in a serene light blue hue offers a polished look with unmatched comfort. Its breathable cotton blend ensures all-day ease, while the classic spread collar and full sleeves make it a versatile choice for both formal and smart-casual occasions.",
+      "occasion": "Formal Wear,Smart Casuals",
+      "fit": "Slim Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-09T12:01:02",
+      "sku": "LX-SHI-036",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "9cc8282e-2a84-44e5-b0f8-2d9ff9d7a2ff",
+      "title": "Textured Stripes Ribbed Pullover Sweater",
+      "handle": "relaxed-fit-ribbed-sweater-4sw065-01",
+      "category": "Sweaters",
+      "selling_price": 1899,
+      "mrp": 2599,
+      "discount_percentage": 27,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_393f57f5-fdf8-4c98-ab0f-44a729bc6a6d.jpg?v=1790592774",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_393f57f5-fdf8-4c98-ab0f-44a729bc6a6d.jpg?v=1790592774",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_c97495d3-c6cd-440f-80da-5d882b4eab3f.jpg?v=1790592774",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_5091ea74-cb8e-430d-900a-2fbe76afaba6.jpg?v=1790592774",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_2b7f651e-829f-4b1c-9a43-ad3c0cefdd72.jpg?v=1790592774",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_0f9a7fa3-ec2f-4fb0-9337-f2c08da79727.jpg?v=1790592774",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_2b32755b-e0dd-4632-b8ae-b1e1a0b60895.jpg?v=1790592775",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_07807653-1d11-4c83-9531-263707ca81e6.jpg?v=1790592774"
+      ],
+      "colors": [
+        "Beige",
+        "Grey"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 2,
+        "M": 8,
+        "L": 5,
+        "XL": 5,
+        "XXL": 2
+      },
+      "average_rating": 4.2,
+      "total_ratings_count": 9,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Crafted with 100% Acrylic, this sweater from LUXEE combines a textured knit design with a relaxed fit for ultimate comfort and style. Perfect for casual outings, its beige tone adds a versatile touch to your wardrobe, ensuring you stay effortlessly chic and cozy.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": true,
+      "is_new_drop": true,
+      "published_at": "2026-10-13T12:07:13",
+      "sku": "LX-SWE-037",
+      "status": "active",
+      "fabric": "Premium Knit Acrylic-Wool Blend",
+      "complementary_product_ids": [
+        "8a51b283-58a9-4051-9351-1a4a8554bdc9",
+        "6837685b-ec87-4ab8-ab96-e4471c6ffb0f"
+      ]
+    },
+    {
+      "id": "e1293321-40ee-45c8-8273-631b7f710c39",
+      "title": "Double Pocket Regular Fit Shirt",
+      "handle": "double-pocket-regular-fit-shirt-4sfs0025-03",
+      "category": "Shirts",
+      "selling_price": 1299,
+      "mrp": 1799,
+      "discount_percentage": 28,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_1c502cf2-cc90-4b05-bf22-a37087c6d52d.jpg?v=1792085853",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_1c502cf2-cc90-4b05-bf22-a37087c6d52d.jpg?v=1792085853",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_dab895a9-a6b6-4562-924f-46c2b7019102.jpg?v=1792085853",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_53adb348-048b-4c89-b6cd-e00d1c517383.jpg?v=1792085853",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_3730a796-b072-4cc5-b52b-0bfe497b2677.jpg?v=1792085853",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_e8038877-143c-4812-9d01-9487d73dc2a3.jpg?v=1792085853",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_ccfab535-0957-45a1-8449-831f148b06b6.jpg?v=1792085853",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_e61c6c2a-468a-4999-9227-0b402ab1e6a0.jpg?v=1792085853"
+      ],
+      "colors": [
+        "Blue",
+        "Green",
+        "Mustard",
+        "Red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 5,
+        "M": 2,
+        "L": 0,
+        "XL": 12,
+        "XXL": 12
+      },
+      "average_rating": 4.3,
+      "total_ratings_count": 6,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Calm blue tones set a laid-back vibe in this regular-fit shirt, featuring a stylish Cuban collar and functional dual flap pockets. Tailored from 100% Cotton, it delivers exceptional breathability and all-day comfort. Designed for effortless holiday relaxation or weekend outings, this versatile staple pairs sleek modern style with easy luxury.",
+      "occasion": "Holiday",
+      "fit": "Regular Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-17T11:00:01",
+      "sku": "LX-SHI-038",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "fe4cc97c-8b1b-4954-b650-669f4c64d032",
+      "title": "Faux Leather Snap Button Zipper Jacket",
+      "handle": "regular-fit-lapel-collar-textured-jacket-4jk0043-01",
+      "category": "Jackets",
+      "selling_price": 2624,
+      "mrp": 3499,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/lookbook-look-02-open-shirt-tucked-tee-chair-leaning-forward-forearm-across-thigh-fix-b_b11a7270-78f6-46e3-86a8-5f35e3b8b1b7.jpg?v=1791891364",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/lookbook-look-02-open-shirt-tucked-tee-chair-leaning-forward-forearm-across-thigh-fix-b_b11a7270-78f6-46e3-86a8-5f35e3b8b1b7.jpg?v=1791891364",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/lookbook-look-02-open-shirt-tucked-tee-one-hand-behind-the-back-b_93e2a283-7e03-4f10-b57a-62b8e6203348.jpg?v=1791891364",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/lookbook-look-02-open-shirt-tucked-tee-close-up-turned-away-hand-tucked-a_cb5068d7-ceb6-4db1-8703-64efe05ce276.png?v=1791891364",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4JK0043-01_2093c26d-f6a6-41be-a946-0472884fa0e8.jpg?v=1791891364",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4JK0043-01_2a990bc9-e3a9-49e5-8575-17338582100c.jpg?v=1791891364",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4JK0043-01-M_2750bc65-2dd0-4b87-8891-dc141501b9f8.png?v=1791891363",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4JK0043-01-M_cf6a225c-4280-472c-a88b-b3a025374647.png?v=1791891363"
+      ],
+      "colors": [
+        "Brown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 15,
+        "M": 2,
+        "L": 0,
+        "XL": 2,
+        "XXL": 2
+      },
+      "average_rating": 4.5,
+      "total_ratings_count": 10,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Crafted in 100% polyester, this jacket features a unique textured finish in a rich brown shade. Its regular fit and notch lapel design offer a sleek, modern look, while the concealed placket and elastic cuffs ensure comfort and style. Perfect for casual outings or layering in cooler weather.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-13T11:36:28",
+      "sku": "LX-JAC-039",
+      "status": "active",
+      "fabric": "High-Density Utility Twill",
+      "complementary_product_ids": [
+        "bf9707d2-993c-46ec-9421-469fb5a604b6",
+        "a586a6c6-e5a1-406a-8159-45bdeab9ab9f"
+      ]
+    },
+    {
+      "id": "80a099c4-4ad6-45eb-a11b-e05035e6436b",
+      "title": "Straight Fit Stretch Jeans",
+      "handle": "denim-straight-fit-jeans-4je055-02",
+      "category": "Jeans",
+      "selling_price": 1999,
+      "mrp": 2699,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_1f65d9b0-db08-44de-8b59-61da8b43c41c.jpg?v=1790858400",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_1f65d9b0-db08-44de-8b59-61da8b43c41c.jpg?v=1790858400",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_422ab5d8-bd85-4778-9e7f-d54119ab20dc.jpg?v=1790858399",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_91a7317e-8a8d-4ac5-b153-2d0a86dcdf6b.jpg?v=1790858399",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_8c20320e-67ee-4eec-b96b-8901f12923b5.jpg?v=1790858400",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_1177fded-342d-4302-aab5-8ba6a6983f08.jpg?v=1790858399",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_025de4ad-6e19-4fe2-8efc-2a448c2a3153.jpg?v=1790858399",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_cc14269d-bce3-49a1-97f0-fdd6e6be0bdc.jpg?v=1790858399"
+      ],
+      "colors": [
+        "Beige",
+        "Black",
+        "Olive",
+        "White"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 15,
+        "30": 2,
+        "32": 12,
+        "34": 5,
+        "36": 8
+      },
+      "average_rating": 4.5,
+      "total_ratings_count": 12,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Jet-black straight-fit jeans that sharpen every look with a clean, minimal finish and easy movement. Crafted in a breathable stretch blend (98% Cotton 2% Spandex), they stay comfortable from commute to weekend plans, with a classic 5-pocket build and a versatile silhouette that pairs with tees or shirts.",
+      "occasion": "Casual Wear",
+      "fit": "Straight Fit",
+      "is_bestseller": true,
+      "is_new_drop": false,
+      "published_at": "2026-10-06T12:10:03",
+      "sku": "LX-JEA-040",
+      "status": "active",
+      "fabric": "100% Ring-Spun Cotton Denim",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "4bc8567b-183a-433f-af55-55b1ebee53fb",
+      "title": "Black Regular Fit Elbow Patch Shirt",
+      "handle": "regular-fit-black-shirt-4sfs0060-05",
+      "category": "Shirts",
+      "selling_price": 1399,
+      "mrp": 1899,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_d2628936-f0c6-445b-b0e4-dc21692ea12e.jpg?v=1790770016",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_d2628936-f0c6-445b-b0e4-dc21692ea12e.jpg?v=1790770016",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_6e835790-f2c7-47d6-a077-8c477a229774.jpg?v=1790770016",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_e7b95bb4-6c38-41b9-b5a9-a1e23b378bbe.jpg?v=1792561130",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_67eca5d1-bffd-419d-9b6c-34998171ddd4.jpg?v=1790770016",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_6c9c518a-c0bd-47cb-b329-8784255c6233.jpg?v=1790770016",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_539bb918-822f-41f7-9d6d-5aec1442cbb2.jpg?v=1790770016",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_430e2723-3f66-4546-8ee5-5818df86363e.jpg?v=1790770016"
+      ],
+      "colors": [
+        "Black",
+        "Grey",
+        "Maroon",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 5,
+        "M": 15,
+        "L": 5,
+        "XL": 12,
+        "XXL": 12
+      },
+      "average_rating": 4.3,
+      "total_ratings_count": 6,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Effortlessly versatile, this black shirt features a classic button-down design with a single chest pocket. Crafted from a premium blend of 98% Cotton and 2% Lyocell, it offers a soft, breathable feel for all-day comfort. Perfect for smart-casual looks, itâs a wardrobe essential for modern men.",
+      "occasion": "Smart Casuals",
+      "fit": "Regular Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-14T11:07:27",
+      "sku": "LX-SHI-041",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "f74b9465-b3cf-469a-bdf2-ba9b45350fe8",
+      "title": "Slim Fit Stretch Textured Shirt",
+      "handle": "slim-fit-textured-shirt-mp-ss1116-04",
+      "category": "Shirts",
+      "selling_price": 2099,
+      "mrp": 2799,
+      "discount_percentage": 25,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_c5624c08-660a-4a71-862f-1b852e04b0cf.jpg?v=1792409850",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_c5624c08-660a-4a71-862f-1b852e04b0cf.jpg?v=1792409850",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_422d2163-d105-4dab-a8c8-304774c300df.jpg?v=1792409849",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_ff69a666-4255-4374-9613-9a8b5b31e7d4.jpg?v=1792409849",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/aa4.jpg?v=1792409849",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_1b400200-cc9c-4ecf-9d9d-1ab29c8c4a73.jpg?v=1792409849",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_3cc09078-a105-4f81-a519-32e4d5cd0bdd.jpg?v=1792409849",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_76916623-a897-43ef-9c99-21044b963a7b.jpg?v=1792409849"
+      ],
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 2,
+        "M": 0,
+        "L": 12,
+        "XL": 0,
+        "XXL": 2
+      },
+      "average_rating": 4.4,
+      "total_ratings_count": 7,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Deep burgundy tones define this refined slim-fit shirt, featuring a sharp spread collar and full sleeves. Tailored from a premium blend of 66% Viscose 32% Polyester 2% Elastane, it provides flexible comfort and breathable ease. A subtle textured weave adds modern sophistication, making it perfect for office hours or evening outings.",
+      "occasion": "Formal Wear,Club Wear",
+      "fit": "Slim Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-22T18:17:05+05:30",
+      "sku": "LX-SHI-042",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "a63ef5b7-6778-4db6-b84b-379555c7b962",
+      "title": "100% Cotton Slim Fit Signature Shirt",
+      "handle": "micro-check-slim-fit-shirt-4sfs0044-02",
+      "category": "Shirts",
+      "selling_price": 1699,
+      "mrp": 2299,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0044-02_1.jpg?v=1792409235",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0044-02_1.jpg?v=1792409235",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0044-02_2.jpg?v=1792409236",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0044-02_3.jpg?v=1792409235",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0044-02_4.jpg?v=1792409236",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0044-02_5.jpg?v=1792409236",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0044-02_6.jpg?v=1792409235",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0044-02_7.jpg?v=1792409235"
+      ],
+      "colors": [
+        "Grey",
+        "Mauve"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 0,
+        "M": 8,
+        "L": 2,
+        "XL": 5,
+        "XXL": 15
+      },
+      "average_rating": 4.2,
+      "total_ratings_count": 9,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Meticulously woven micro-checks define this sleek slim-fit shirt, featuring full sleeves and a structured spread collar. Tailored from 100% Cotton, it delivers lightweight, breathable comfort with a sharp profile. Perfect for modern smart-casual styling, this versatile piece brings effortless polish to your everyday wardrobe.",
+      "occasion": "Formal Wear",
+      "fit": "Slim Fit",
+      "is_bestseller": true,
+      "is_new_drop": true,
+      "published_at": "2026-10-22T18:18:34+05:30",
+      "sku": "LX-SHI-043",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "luxee-prod-44",
+      "title": "Slim Fit Stretch Pleated Trousers",
+      "handle": "textured-navy-blue-trousers-4tr0002-02",
+      "category": "Trousers",
+      "selling_price": 1599,
+      "mrp": 2199,
+      "discount_percentage": 27,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_fcede68f-1ba1-4995-90e9-29b616fb31a3.jpg?v=1791825731",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_fcede68f-1ba1-4995-90e9-29b616fb31a3.jpg?v=1791825731",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_92adaff5-4fa9-49ff-bbcc-f9307d7b776f.jpg?v=1791825731",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_5bd5777b-4ad4-4e00-ba95-a4052d52dfae.jpg?v=1791825732",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_778be888-48f5-47ea-9321-8b738fc6b4d0.jpg?v=1791825731",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_6c28cb89-8739-45b9-9ce8-00a183f96f44.jpg?v=1791825731",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_f1849cbf-ef61-4810-a54f-164b2e4e9f32.jpg?v=1791825731",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_5957f941-e9d0-43ff-b17b-a4bfabf17d07.jpg?v=1791825731"
+      ],
+      "colors": [
+        "Beige",
+        "Grey",
+        "Navy"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "stock": {
+        "28": 12,
+        "30": 0,
+        "32": 8,
+        "34": 2,
+        "36": 5
+      },
+      "average_rating": 4.2,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size 32",
+      "washcare": "Machine Wash",
+      "short_description": "Tailored to perfection, these navy-blue pleated trousers blend timeless sartorial elegance with modern functionality. Crafted from a premium stretch-polyester fabric, they feature sophisticated side adjusters, a crisp pressed crease, and a sleek slim silhouette that transitions effortlessly from work to evening gatherings.",
+      "occasion": "Formal Wear,Festive Wear",
+      "fit": "Slim Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-13T12:05:42",
+      "sku": "LX-TRO-044",
+      "status": "active",
+      "fabric": "Polyester Rayon Spandex Blend",
+      "complementary_product_ids": [
+        "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+        "f076370b-4f2a-4daf-9ffb-f68e29d14c3b"
+      ]
+    },
+    {
+      "id": "3951bf3d-201f-44d7-9d72-7c0834a6d8d5",
+      "title": "100% Cotton Slim Fit Signature Shirt",
+      "handle": "textured-slim-fit-shirt-4sfs0041-01",
+      "category": "Shirts",
+      "selling_price": 1699,
+      "mrp": 2299,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0041-01.jpg?v=1791825697",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0041-01.jpg?v=1791825697",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0041-01-m.jpg?v=1791825696",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0041-01-m_d2b004f3-4bb0-4f10-a3d7-bea0195dbf6a.jpg?v=1791825696",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4SFS0041-01-M_446d243d-1bae-43b7-a767-40555494f20b.jpg?v=1792390598",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0041-01-m-..jpg?v=1791825696",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0041-01-m_front.jpg?v=1791825695",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs0041-01-m_back.jpg?v=1791825695"
+      ],
+      "colors": [
+        "Pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 0,
+        "M": 2,
+        "L": 8,
+        "XL": 15,
+        "XXL": 0
+      },
+      "average_rating": 4.2,
+      "total_ratings_count": 9,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Subtle sophistication defines this light pink slim-fit shirt, tailored with a crisp spread collar and full sleeves. Crafted from 100% Cotton, the breathable textured weave ensures all-day ease and refined appeal. Perfect for sharp office styling or formal evenings, it delivers premium modern elegance at an accessible price point.",
+      "occasion": "Formal Wear",
+      "fit": "Slim Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-19T11:31:35",
+      "sku": "LX-SHI-045",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "8a51b283-58a9-4051-9351-1a4a8554bdc9",
+      "title": "Textured Flat Knit Polo T-Shirt",
+      "handle": "regular-fit-polo-zipper-t-shirt-4pl206-03",
+      "category": "Oversized T-Shirts",
+      "selling_price": 1599,
+      "mrp": 2199,
+      "discount_percentage": 27,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_7e881b4f-6886-4eb1-965f-433bb911d029.jpg?v=1790770041",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_7e881b4f-6886-4eb1-965f-433bb911d029.jpg?v=1790770041",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_8638e1a3-359e-4385-b042-76a28cded629.jpg?v=1790770041",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_2c409459-1167-45ef-8cb7-f69a3fe28796.jpg?v=1790770041",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_767cc381-41c5-4555-b671-d7f38ea7f639.jpg?v=1790770041",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_072350e7-ad99-4f78-9d7d-d510264628b7.jpg?v=1790770040",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_2e9fe0dd-8eda-4083-9fff-f8199d49e7a5.png?v=1790770041",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_4330437f-eddd-49c5-9e85-474f00a1b236.png?v=1790770040"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Off-White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 2,
+        "M": 2,
+        "L": 2,
+        "XL": 15,
+        "XXL": 0
+      },
+      "average_rating": 4.4,
+      "total_ratings_count": 7,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Crafted from 100% Cotton, this premium menâs T-shirt combines a sleek zippered polo collar with a rich teal hue, offering a perfect blend of style and comfort. Its breathable fabric and tailored fit make it an ideal choice for versatile, everyday wear.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": true,
+      "is_new_drop": false,
+      "published_at": "2026-10-22T18:19:15+05:30",
+      "sku": "LX-OVE-046",
+      "status": "active",
+      "fabric": "280 GSM Heavyweight Combed Cotton",
+      "complementary_product_ids": [
+        "bf9707d2-993c-46ec-9421-469fb5a604b6",
+        "a586a6c6-e5a1-406a-8159-45bdeab9ab9f"
+      ]
+    },
+    {
+      "id": "6837685b-ec87-4ab8-ab96-e4471c6ffb0f",
+      "title": "Textured Flat Knit Polo T-Shirt",
+      "handle": "regular-fit-polo-zipper-t-shirt-4pl206-02",
+      "category": "Oversized T-Shirts",
+      "selling_price": 1599,
+      "mrp": 2199,
+      "discount_percentage": 27,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4pl206-02..jpg?v=1790770038",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4pl206-02..jpg?v=1790770038",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4pl206-02-..jpg?v=1790770038",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4pl206-02._c2b691c6-39cc-46c6-bc2d-4742a12c45ca.jpg?v=1790770038",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4pl206-02_41121af9-c518-4cb0-99da-1893415b4e36.jpg?v=1790770038",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4pl206-02.jpg?v=1790770038",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4pl206-01-m.jpg?v=1790770038",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4pl206-01-m_53d27dc0-d10e-4b64-a38b-256e2fdaa2f6.jpg?v=1790770038"
+      ],
+      "colors": [
+        "Black",
+        "Blue",
+        "Off-White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 12,
+        "M": 12,
+        "L": 15,
+        "XL": 8,
+        "XXL": 8
+      },
+      "average_rating": 4.3,
+      "total_ratings_count": 6,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Crafted from 100% cotton, this sleek black polo T-shirt combines premium comfort with a modern zip closure. Its minimalist design and regular fit make it a versatile choice for casual outings or semi-formal settings, ensuring you stay stylish and comfortable all day.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": false,
+      "is_new_drop": true,
+      "published_at": "2026-10-22T18:19:14+05:30",
+      "sku": "LX-OVE-047",
+      "status": "active",
+      "fabric": "280 GSM Heavyweight Combed Cotton",
+      "complementary_product_ids": [
+        "bf9707d2-993c-46ec-9421-469fb5a604b6",
+        "a586a6c6-e5a1-406a-8159-45bdeab9ab9f"
+      ]
+    },
+    {
+      "id": "b60065c4-7333-4d21-8275-857fea17ac2d",
+      "title": "100% Cotton Slim Fit Signature Shirt",
+      "handle": "self-design-slim-fit-shirt-4sfs0039-01",
+      "category": "Shirts",
+      "selling_price": 1699,
+      "mrp": 2299,
+      "discount_percentage": 26,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_85802f0d-bc6f-46a4-b98e-d3c434450305.jpg?v=1791825681",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_85802f0d-bc6f-46a4-b98e-d3c434450305.jpg?v=1791825681",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_12f72a63-e18c-4837-8e9b-667c6b3c13a4.jpg?v=1791825680",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_5782d7f3-e8b7-4a6f-8c11-c4f5b69cdd07.jpg?v=1791825680",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_d89ca2fd-cd14-4087-be95-f3e6db5064e4.jpg?v=1791825681",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_e82815ce-978d-4cfc-a429-c41b85067557.jpg?v=1791825680",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_f6baf88f-fe85-4301-b913-3333fea09654.jpg?v=1791825680",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_995d2e77-9c15-4abe-82f4-df87bf825072.jpg?v=1791825680"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 15,
+        "M": 15,
+        "L": 5,
+        "XL": 12,
+        "XXL": 12
+      },
+      "average_rating": 4.4,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Midnight-black sophistication defines this sharp slim-fit shirt, tailored with a refined spread collar and full sleeves. Woven from premium 100% Cotton, it delivers breathable comfort and a structured silhouette. Seamlessly transitions from boardroom dominance to evening club affairs with effortless mass-premium charm.",
+      "occasion": "Formal Wear,Club Wear",
+      "fit": "Slim Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-22T18:18:14+05:30",
+      "sku": "LX-SHI-048",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "ca45f6fd-0678-45b0-b84d-e8002e821aad",
+      "title": "100% Viscose Regular Fit Abstract Shirt",
+      "handle": "100-viscose-regular-fit-abstract-shirt-4sfs040-10",
+      "category": "Shirts",
+      "selling_price": 1299,
+      "mrp": 1799,
+      "discount_percentage": 28,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_48534855-4b0a-4f25-a5c2-b6eda059af86.jpg?v=1792085880",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_48534855-4b0a-4f25-a5c2-b6eda059af86.jpg?v=1792085880",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_56e71749-d1b1-4246-bb8e-a0110c70242e.jpg?v=1792085880",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_bea8e70a-d052-4da2-84a0-c0e08509f164.jpg?v=1792085880",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4_7a8530cf-a8d5-4935-8c68-9dc99a228eab.jpg?v=1792085880",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_4234c0dc-cc66-41da-be11-985c34f7fbe7.jpg?v=1792085880",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/6_abd42470-b649-4467-97b7-d3c22fbc0991.jpg?v=1792085880",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/7_a6c1b20a-f139-4224-b11b-23fc025daaae.jpg?v=1792085880"
+      ],
+      "colors": [
+        "Beige",
+        "Black",
+        "Blue",
+        "Brown",
+        "Khaki",
+        "Off-White",
+        "Pink",
+        "Purple",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 5,
+        "M": 8,
+        "L": 8,
+        "XL": 0,
+        "XXL": 12
+      },
+      "average_rating": 4.4,
+      "total_ratings_count": 8,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Striking abstract glitch prints define this modern regular-fit shirt, designed to bring an edgy aesthetic to your wardrobe. Tailored from 100% Viscose, it offers a fluid drape and breathable, all-day comfort. Finished with a spread collar and full sleeves, this piece delivers statement style at an accessible price for every outing.",
+      "occasion": "Casual Wear",
+      "fit": "Regular Fit",
+      "is_bestseller": true,
+      "is_new_drop": true,
+      "published_at": "2026-10-22T18:18:52+05:30",
+      "sku": "LX-SHI-049",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    },
+    {
+      "id": "46d014b0-9b9a-4295-aed5-2bb5aa485fd0",
+      "title": "Slim Fit Stretch Shirt",
+      "handle": "stretch-slim-fit-shirt-4sfs023-16",
+      "category": "Shirts",
+      "selling_price": 999,
+      "mrp": 1299,
+      "discount_percentage": 23,
+      "preview_image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs023-16_1.jpg?v=1792409243",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs023-16_1.jpg?v=1792409243",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs023-16_2.jpg?v=1792409243",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs023-16_3.jpg?v=1792409243",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs023-16_4.jpg?v=1792409244",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs023-16_5.jpg?v=1792409243",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs023-16_6.jpg?v=1792409243",
+        "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4sfs023-16_7.jpg?v=1792409242"
+      ],
+      "colors": [
+        "Black",
+        "Maroon",
+        "Mauve",
+        "Navy",
+        "Olive",
+        "Pink",
+        "White"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": {
+        "S": 15,
+        "M": 8,
+        "L": 12,
+        "XL": 5,
+        "XXL": 5
+      },
+      "average_rating": 4.3,
+      "total_ratings_count": 6,
+      "model_info": "Model Is Wearing Size M",
+      "washcare": "Machine Wash",
+      "short_description": "Midnight navy hue commands attention in this sharp slim-fit shirt, designed with a sleek spread collar and long sleeves. Crafted from 98% Polyester 2% Elastane, it delivers flexible stretch and unmatched shape retention for effortless mobility. Perfectly bridging modern style with daily comfort, it ensures a polished mass-premium look.",
+      "occasion": "Formal Wear,Club Wear",
+      "fit": "Slim Fit",
+      "is_bestseller": false,
+      "is_new_drop": false,
+      "published_at": "2026-10-22T18:18:41+05:30",
+      "sku": "LX-SHI-050",
+      "status": "active",
+      "fabric": "100% Breathable Structured Cotton",
+      "complementary_product_ids": [
+        "luxee-prod-2",
+        "88601346-6d5e-4c50-85e4-caf12be3c17d"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "LX-98214",
+      "customerName": "Kunal Singhania",
+      "email": "kunal.s@example.com",
+      "phone": "+91 98765 43210",
+      "address": {
+        "line1": "Flat 402, Skyline Residency, Bandra West",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400050"
+      },
+      "items": [
+        {
+          "productId": "bf9707d2-993c-46ec-9421-469fb5a604b6",
+          "title": "Straight Fit Stretch Jeans",
+          "size": "32",
+          "quantity": 1,
+          "price": 2099,
+          "image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_70b3ca3a-d635-405f-bbde-fe1d0540e5a9.jpg?v=1790592713"
+        }
+      ],
+      "subtotal": 2099,
+      "discount": 210,
+      "shipping": 0,
+      "total": 1889,
+      "paymentMethod": "UPI",
+      "paymentStatus": "Paid",
+      "fulfillmentStatus": "Shipped",
+      "trackingNumber": "DELHIVERY-7749210",
+      "createdAt": "2026-10-21T14:32:00Z",
+      "timeline": [
+        {
+          "status": "Processing",
+          "timestamp": "2026-10-21T14:32:00Z",
+          "note": "Order placed and payment verified via UPI"
+        },
+        {
+          "status": "Packed",
+          "timestamp": "2026-10-21T18:00:00Z",
+          "note": "Items packed in premium LUXEE box"
+        },
+        {
+          "status": "Shipped",
+          "timestamp": "2026-10-22T10:15:00Z",
+          "note": "Handed over to Delhivery Express"
+        }
+      ]
+    },
+    {
+      "id": "LX-98215",
+      "customerName": "Arjun Dev",
+      "email": "arjun.dev@example.com",
+      "phone": "+91 98111 22334",
+      "address": {
+        "line1": "House 12, Indiranagar 100ft Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560038"
+      },
+      "items": [
+        {
+          "productId": "luxee-prod-2",
+          "title": "Slim Fit Stretch Pleated Trousers",
+          "size": "32",
+          "quantity": 2,
+          "price": 1599,
+          "image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4tr0002-01-..jpg?v=1791825736"
+        }
+      ],
+      "subtotal": 3198,
+      "discount": 250,
+      "shipping": 0,
+      "total": 2948,
+      "paymentMethod": "CARD",
+      "paymentStatus": "Paid",
+      "fulfillmentStatus": "Processing",
+      "trackingNumber": "BLUEDART-8839012",
+      "createdAt": "2026-10-22T09:15:00Z",
+      "timeline": [
+        {
+          "status": "Processing",
+          "timestamp": "2026-10-22T09:15:00Z",
+          "note": "Order confirmed via Card Sandbox"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "user-admin",
+      "name": "LUXEE Admin",
+      "email": "admin@luxee.com",
+      "phone": "+91 99999 00000",
+      "role": "admin",
+      "wishlist": []
+    },
+    {
+      "id": "user-staff",
+      "name": "LUXEE Staff Manager",
+      "email": "staff@luxee.com",
+      "phone": "+91 99999 11111",
+      "role": "staff",
+      "wishlist": []
+    },
+    {
+      "id": "user-default",
+      "name": "Kunal Singhania",
+      "email": "customer@luxee.com",
+      "phone": "+91 98765 43210",
+      "role": "customer",
+      "address": {
+        "line1": "Flat 402, Skyline Residency, Bandra West",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pincode": "400050"
+      },
+      "wishlist": [
+        "bf9707d2-993c-46ec-9421-469fb5a604b6",
+        "luxee-prod-2"
+      ],
+      "totalSpent": 4299
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "productId": "bf9707d2-993c-46ec-9421-469fb5a604b6",
+      "userName": "Aarav Sharma (Mumbai)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "Absolute top-notch quality! The fabric has a premium feel and the fit is perfect.",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-2",
+      "productId": "luxee-prod-2",
+      "userName": "Rohan Verma (Bengaluru)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "LUXEE never misses. Wore this to an evening event and got so many compliments.",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-3",
+      "productId": "a586a6c6-e5a1-406a-8159-45bdeab9ab9f",
+      "userName": "Kabir Malhotra (Delhi)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "Heavyweight, sturdy material. Definitely buying more colors soon.",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-4",
+      "productId": "ecf80ca3-c404-4c81-a7b4-82ea4d7d8ebf",
+      "userName": "Aditya Nair (Pune)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "Great silhouette. Slightly oversized just as expected. 10/10 streetwear vibe.",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-5",
+      "productId": "08069811-1d33-4c03-b151-3c77c92ffc69",
+      "userName": "Varun Mehta (Ahmedabad)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "Denim wash looks even better in real life than the photos. Highly recommended!",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-6",
+      "productId": "a021558d-16c9-4c40-8cd0-9cff692f985d",
+      "userName": "Aryan Saxena (Hyderabad)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "Comfortable stretch and breathable fabric. Excellent delivery time too.",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-7",
+      "productId": "272b3fd1-3827-4a4f-8d9d-df117a24c71d",
+      "userName": "Aarav Sharma (Mumbai)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "Absolute top-notch quality! The fabric has a premium feel and the fit is perfect.",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-8",
+      "productId": "dd851b5e-654d-4a22-b273-bb8d4609f7c4",
+      "userName": "Rohan Verma (Bengaluru)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "LUXEE never misses. Wore this to an evening event and got so many compliments.",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-9",
+      "productId": "afb59156-0ae1-49e0-8b2c-53c28533680c",
+      "userName": "Kabir Malhotra (Delhi)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "Heavyweight, sturdy material. Definitely buying more colors soon.",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-10",
+      "productId": "b536e9df-7d8c-45d8-ad2f-ac845fec1e66",
+      "userName": "Aditya Nair (Pune)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "Great silhouette. Slightly oversized just as expected. 10/10 streetwear vibe.",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-11",
+      "productId": "f076370b-4f2a-4daf-9ffb-f68e29d14c3b",
+      "userName": "Varun Mehta (Ahmedabad)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "Denim wash looks even better in real life than the photos. Highly recommended!",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-12",
+      "productId": "ed7bc31d-5e8a-4bf5-8a56-0c3219c392ac",
+      "userName": "Aryan Saxena (Hyderabad)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "Comfortable stretch and breathable fabric. Excellent delivery time too.",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-13",
+      "productId": "3a892bce-4abb-4bac-b68b-846712bd8ed7",
+      "userName": "Aarav Sharma (Mumbai)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "Absolute top-notch quality! The fabric has a premium feel and the fit is perfect.",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-14",
+      "productId": "luxee-prod-14",
+      "userName": "Rohan Verma (Bengaluru)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "LUXEE never misses. Wore this to an evening event and got so many compliments.",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    },
+    {
+      "id": "rev-15",
+      "productId": "a0e2e30a-970c-4f68-a3d5-d5c9737e26e5",
+      "userName": "Kabir Malhotra (Delhi)",
+      "rating": 5,
+      "title": "Insane Quality & Fit!",
+      "comment": "Heavyweight, sturdy material. Definitely buying more colors soon.",
+      "verifiedBuyer": true,
+      "date": "2026-10-18",
+      "fitFeedback": "True to Size",
+      "status": "approved"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "c-1",
+      "code": "LUXEE10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minOrderAmount": 999,
+      "maxDiscount": 500,
+      "expiryDate": "2027-12-31",
+      "usageLimit": 1000,
+      "timesUsed": 42,
+      "isActive": true
+    },
+    {
+      "id": "c-2",
+      "code": "FLAT250",
+      "discountType": "fixed",
+      "discountValue": 250,
+      "minOrderAmount": 1999,
+      "expiryDate": "2027-12-31",
+      "usageLimit": 500,
+      "timesUsed": 19,
+      "isActive": true
+    },
+    {
+      "id": "c-3",
+      "code": "VIP20",
+      "discountType": "percentage",
+      "discountValue": 20,
+      "minOrderAmount": 2999,
+      "maxDiscount": 1000,
+      "expiryDate": "2027-12-31",
+      "usageLimit": 200,
+      "timesUsed": 12,
+      "isActive": true
+    },
+    {
+      "id": "c-4",
+      "code": "FREESHIP",
+      "discountType": "fixed",
+      "discountValue": 99,
+      "minOrderAmount": 499,
+      "expiryDate": "2027-12-31",
+      "usageLimit": 1000,
+      "timesUsed": 31,
+      "isActive": true
+    }
+  ],
+  "returns": [
+    {
+      "id": "ret-101",
+      "orderId": "LX-98214",
+      "customerName": "Kunal Singhania",
+      "customerEmail": "kunal.s@example.com",
+      "productId": "bf9707d2-993c-46ec-9421-469fb5a604b6",
+      "productTitle": "Straight Fit Stretch Jeans",
+      "size": "32",
+      "type": "exchange",
+      "exchangeSize": "34",
+      "reason": "Waist was slightly tight, need size 34",
+      "status": "Pending",
+      "restocked": false,
+      "createdAt": "2026-10-23T11:20:00Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1",
+      "user": "Admin",
+      "action": "System Initialization",
+      "target": "Catalog & DB",
+      "details": "Loaded initial fashion catalog and verified synchronization",
+      "timestamp": "2026-10-18T10:00:00Z"
+    }
+  ],
+  "settings": {
+    "freeShippingThreshold": 999,
+    "standardShippingCost": 99,
+    "codEnabled": true,
+    "announcementText": "BUY 2 GET 10% OFF | USE CODE 'LUXEE10' • FREE SHIPPING OVER ₹999",
+    "bannerActive": true
+  },
+  "categories": [
+    {
+      "id": "cat-shirts",
+      "name": "SHIRTS",
+      "slug": "shirts",
+      "description": "Crafted with premium cotton, corduroy, and breathable textures.",
+      "image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_d20306aa-e3ca-401a-9f25-5011f97dbabf.jpg?v=1790769997",
+      "featured": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "cat-oversized-tees",
+      "name": "OVERSIZED TEES",
+      "slug": "oversized-t-shirts",
+      "description": "Heavyweight 280+ GSM combed cotton with statement silhouettes.",
+      "image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4pl206-01-m_53d27dc0-d10e-4b64-a38b-256e2fdaa.jpg?v=1790592713",
+      "featured": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "cat-jeans",
+      "name": "JEANS",
+      "slug": "jeans",
+      "description": "Baggy, straight, bootcut, and carpenter fits washed to perfection.",
+      "image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/1_70b3ca3a-d635-405f-bbde-fe1d0540e5a9.jpg?v=1790592713",
+      "featured": true,
+      "sortOrder": 3
+    },
+    {
+      "id": "cat-trousers",
+      "name": "TROUSERS",
+      "slug": "trousers",
+      "description": "Tailored pleats and utilitarian cargos for modern streetwear.",
+      "image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4tr0002-01.jpg?v=1791825728",
+      "featured": true,
+      "sortOrder": 4
+    },
+    {
+      "id": "cat-sweaters",
+      "name": "SWEATERS",
+      "slug": "sweaters",
+      "description": "Seoul archive boxy fits, knitwear, and fleece hoodies.",
+      "image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/3_5091ea74-cb8e-430d-900a-2fbe76afaba6.jpg?v=1790769997",
+      "featured": true,
+      "sortOrder": 5
+    },
+    {
+      "id": "cat-jackets",
+      "name": "JACKETS",
+      "slug": "jackets",
+      "description": "Layering essentials engineered for urban transitions.",
+      "image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/5_43b49749-97fa-4402-a06f-ddd6eae38ec3.jpg?v=1790769997",
+      "featured": true,
+      "sortOrder": 6
+    },
+    {
+      "id": "cat-bestsellers",
+      "name": "BESTSELLERS",
+      "slug": "bestsellers",
+      "description": "Our most loved streetwear pieces as voted by you.",
+      "image": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/2_8638e1a3-359e-4385-b042-76a28cded629.jpg?v=1790769997",
+      "featured": true,
+      "sortOrder": 7
+    }
+  ]
+}
