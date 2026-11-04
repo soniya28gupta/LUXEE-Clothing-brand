@@ -322,11 +322,11 @@ function normalizeProduct(p: Product, index: number, allProducts: Product[]): Pr
     // Dynamically pair products from complementary categories
     const complementaryCategory =
       norm.category === 'Jeans' ? 'Shirts' :
-      norm.category === 'Shirts' ? 'Trousers' :
-      norm.category === 'Oversized T-Shirts' ? 'Jeans' :
-      norm.category === 'Trousers' ? 'Shirts' :
-      norm.category === 'Jackets' ? 'Jeans' : 'Oversized T-Shirts';
-    
+        norm.category === 'Shirts' ? 'Trousers' :
+          norm.category === 'Oversized T-Shirts' ? 'Jeans' :
+            norm.category === 'Trousers' ? 'Shirts' :
+              norm.category === 'Jackets' ? 'Jeans' : 'Oversized T-Shirts';
+
     const matched = allProducts
       .filter(item => item.id !== norm.id && item.category === complementaryCategory)
       .slice(0, 2)
@@ -366,38 +366,38 @@ function ensureDatabase(): DatabaseSchema {
   const users: User[] = (dbData.users && dbData.users.length > 0)
     ? dbData.users
     : [
-        {
-          id: "user-admin",
-          name: "LUXEE Admin",
-          email: "admin@luxee.com",
-          phone: "+91 99999 00000",
-          role: "admin",
-          wishlist: []
+      {
+        id: "user-admin",
+        name: "LUXEE Admin",
+        email: "admin@luxee.com",
+        phone: "+91 99999 00000",
+        role: "admin",
+        wishlist: []
+      },
+      {
+        id: "user-staff",
+        name: "LUXEE Staff Manager",
+        email: "staff@luxee.com",
+        phone: "+91 99999 11111",
+        role: "staff",
+        wishlist: []
+      },
+      {
+        id: "user-default",
+        name: "Kunal Singhania",
+        email: "customer@luxee.com",
+        phone: "+91 98765 43210",
+        role: "customer",
+        address: {
+          line1: "Flat 402, Skyline Residency, Bandra West",
+          city: "Mumbai",
+          state: "Maharashtra",
+          pincode: "400050"
         },
-        {
-          id: "user-staff",
-          name: "LUXEE Staff Manager",
-          email: "staff@luxee.com",
-          phone: "+91 99999 11111",
-          role: "staff",
-          wishlist: []
-        },
-        {
-          id: "user-default",
-          name: "Kunal Singhania",
-          email: "customer@luxee.com",
-          phone: "+91 98765 43210",
-          role: "customer",
-          address: {
-            line1: "Flat 402, Skyline Residency, Bandra West",
-            city: "Mumbai",
-            state: "Maharashtra",
-            pincode: "400050"
-          },
-          wishlist: [products[0]?.id || "", products[1]?.id || ""],
-          totalSpent: 4299
-        }
-      ];
+        wishlist: [products[0]?.id || "", products[1]?.id || ""],
+        totalSpent: 4299
+      }
+    ];
 
   const reviews = (dbData.reviews && dbData.reviews.length > 0)
     ? dbData.reviews
@@ -420,6 +420,7 @@ function ensureDatabase(): DatabaseSchema {
     ? dbData.categories
     : defaultCategories;
 
+
   const fullDb: DatabaseSchema = {
     products,
     orders,
@@ -432,9 +433,10 @@ function ensureDatabase(): DatabaseSchema {
     categories
   };
 
-  saveDatabase(fullDb);
+  // Return the database without writing to the filesystem.
   return fullDb;
 }
+
 
 function saveDatabase(data: DatabaseSchema): void {
   if (!fs.existsSync(DATA_DIR)) {
@@ -467,7 +469,7 @@ export const db = {
     const newId = `prod-${Date.now()}`;
     const handle = product.handle || product.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)+/g, '');
     const sku = product.sku || `LX-${(product.category || 'GEN').slice(0, 3).toUpperCase()}-${Date.now().toString().slice(-4)}`;
-    
+
     const newProduct: Product = {
       ...product,
       id: newId,
@@ -501,7 +503,7 @@ export const db = {
     const data = ensureDatabase();
     const index = data.products.findIndex(p => p.id === id);
     if (index === -1) return null;
-    
+
     data.products[index] = { ...data.products[index], ...updates };
     data.auditLogs.unshift({
       id: `log-${Date.now()}`,
